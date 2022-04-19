@@ -1,0 +1,27 @@
+<form class="creditcard-form">
+    <mat-form-field class="cc-full-width" appearance="fill">
+        <mat-label>Modelo</mat-label>
+        <input type="text" placeholder="Elija su modelo de tarjeta" aria-label="Modelo" matInput
+            [formControl]="myControl" [matAutocomplete]="auto">
+        <mat-autocomplete autoActiveFirstOption #auto="matAutocomplete">
+            <mat-option *ngFor="let option of filteredOptions | async" [value]="option">
+                {{option}}
+            </mat-option>
+        </mat-autocomplete>
+    </mat-form-field>
+    <mat-form-field appearance="fill">
+        <mat-label>Número de tarjeta</mat-label>
+        <input matInput>
+    </mat-form-field>
+</form>
+<form>
+    <mat-form-field appearance="fill">
+        <mat-label>Fecha de caducidad</mat-label>
+        <input matInput>
+    </mat-form-field>
+    <mat-form-field appearance="fill">
+        <mat-label>CVV</mat-label>
+        <input matInput>
+    </mat-form-field>
+</form>
+<button routerLink="/street" mat-stroked-button>Siguiente</button>

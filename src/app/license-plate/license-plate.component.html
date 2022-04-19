@@ -1,0 +1,9 @@
+<div class="license-plate">
+    <mat-form-field appearance="fill" color="accent">
+        <mat-label>Su matrícula</mat-label>
+        <input matInput required>
+        <mat-error *ngIf="matricula.invalid">{{getErrorMessage()}}</mat-error>
+    </mat-form-field>
+
+</div>
+<button routerLink="/payment" mat-stroked-button>Siguiente</button>
