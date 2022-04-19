@@ -1,0 +1,6806 @@
+[
+    {
+        "CALLE AGUAS": "Verde"
+    },
+    {
+        "CALLE AGUILA": "Verde"
+    },
+    {
+        "CALLE ALAMILLO": "Verde"
+    },
+    {
+        "CALLE ALGECIRAS": "Verde"
+    },
+    {
+        "CALLE ALMENDRO": "Verde"
+    },
+    {
+        "CALLE AMNISTIA": "Verde"
+    },
+    {
+        "CALLE ANGEL": "Verde"
+    },
+    {
+        "COSTANILLA ANGELES": "Verde"
+    },
+    {
+        "CALLE ARRIETA": "Verde"
+    },
+    {
+        "CALLE BAILEN": "Verde"
+    },
+    {
+        "CALLE BEATRIZ GALINDO": "Verde"
+    },
+    {
+        "CALLE CALATRAVA": "Verde"
+    },
+    {
+        "CALLE CAMPOMANES": "Verde"
+    },
+    {
+        "CALLE CA�OS DEL PERAL": "Verde"
+    },
+    {
+        "CUESTA CA�OS VIEJOS": "Verde"
+    },
+    {
+        "CALLE CAVA ALTA": "Verde"
+    },
+    {
+        "CALLE CAVA BAJA": "Verde"
+    },
+    {
+        "CALLE CAVA DE SAN MIGUEL": "Verde"
+    },
+    {
+        "CALLE CEBADA": "Verde"
+    },
+    {
+        "PLAZA CEBADA": "Verde"
+    },
+    {
+        "PASEO CIUDAD DE PLASENCIA": "Naranja"
+    },
+    {
+        "PLAZA COMANDANTE LAS MORENAS": "Verde"
+    },
+    {
+        "CALLE CRUZADA": "Verde"
+    },
+    {
+        "CUESTA DESCARGAS": "Verde"
+    },
+    {
+        "CALLE DOCTOR CARRACIDO": "Verde"
+    },
+    {
+        "CALLE DOCTOR LETAMENDI": "Verde"
+    },
+    {
+        "CALLE DON PEDRO": "Verde"
+    },
+    {
+        "CALLE ENCARNACION": "Verde"
+    },
+    {
+        "PLAZA ENCARNACION": "Verde"
+    },
+    {
+        "CALLE ESCALINATA": "Verde"
+    },
+    {
+        "CALLE ESPEJO": "Verde"
+    },
+    {
+        "CALLE FACTOR": "Verde"
+    },
+    {
+        "CALLE FLOR BAJA": "Verde"
+    },
+    {
+        "CALLE FOMENTO": "Verde"
+    },
+    {
+        "PLAZA GABRIEL MIRO": "Verde"
+    },
+    {
+        "CALLE GRAFAL": "Verde"
+    },
+    {
+        "AVENIDA GRAN VIA DE SAN FRANCISCO": "Verde"
+    },
+    {
+        "CALLE GUILLERMO ROLLAND": "Verde"
+    },
+    {
+        "CALLE HUMILLADERO": "Verde"
+    },
+    {
+        "CALLE INDEPENDENCIA": "Verde"
+    },
+    {
+        "CALLE ISABEL LA CATOLICA": "Verde"
+    },
+    {
+        "CALLE ISABEL TINTERO": "Verde"
+    },
+    {
+        "CALLE JERTE": "Verde"
+    },
+    {
+        "CALLE JUAN DE HERRERA": "Verde"
+    },
+    {
+        "CALLE LEGANITOS": "Verde"
+    },
+    {
+        "CALLE LUCIENTE": "Verde"
+    },
+    {
+        "CALLE MANCEBOS": "Verde"
+    },
+    {
+        "CALLE MAYOR": "Verde"
+    },
+    {
+        "CALLE MEDIODIA GRANDE": "Verde"
+    },
+    {
+        "CALLE MORERIA": "Verde"
+    },
+    {
+        "PLAZA MORERIA": "Verde"
+    },
+    {
+        "CALLE NOBLEJAS": "Verde"
+    },
+    {
+        "CALLE ORIENTE": "Verde"
+    },
+    {
+        "CALLE PALOMA": "Verde"
+    },
+    {
+        "CALLE PRIORA": "Verde"
+    },
+    {
+        "PLAZA PUERTA DE MOROS": "Verde"
+    },
+    {
+        "CUESTA RAMON": "Verde"
+    },
+    {
+        "CALLE REDONDILLA": "Verde"
+    },
+    {
+        "CALLE ROSARIO": "Verde"
+    },
+    {
+        "COSTANILLA SAN ANDRES": "Verde"
+    },
+    {
+        "CALLE SAN BERNABE": "Verde"
+    },
+    {
+        "CALLE SAN BRUNO": "Verde"
+    },
+    {
+        "CALLE SAN BUENAVENTURA": "Verde"
+    },
+    {
+        "CARRERA SAN FRANCISCO": "Verde"
+    },
+    {
+        "PLAZA SAN FRANCISCO": "Verde"
+    },
+    {
+        "CALLE SAN ISIDRO LABRADOR": "Verde"
+    },
+    {
+        "CALLE SAN JUSTO": "Verde"
+    },
+    {
+        "PLAZA SAN MIGUEL": "Verde"
+    },
+    {
+        "PLAZA SAN NICOLAS": "Verde"
+    },
+    {
+        "COSTANILLA SAN PEDRO": "Verde"
+    },
+    {
+        "CALLE SANTA CLARA": "Verde"
+    },
+    {
+        "CUESTA SANTO DOMINGO": "Verde"
+    },
+    {
+        "PLAZA SANTO DOMINGO": "Verde"
+    },
+    {
+        "PLAZA SEGOVIA NUEVA": "Verde"
+    },
+    {
+        "CALLE SEGOVIA": "Verde"
+    },
+    {
+        "RONDA SEGOVIA": "Verde"
+    },
+    {
+        "CALLE SIERPE": "Verde"
+    },
+    {
+        "CALLE SILVA": "Verde"
+    },
+    {
+        "CALLE TABERNILLAS": "Verde"
+    },
+    {
+        "CALLE TOLEDO": "Verde"
+    },
+    {
+        "CALLE TORIJA": "Verde"
+    },
+    {
+        "CALLE UNION": "Verde"
+    },
+    {
+        "CALLE VALLICIERGO": "Verde"
+    },
+    {
+        "CUESTA VEGA": "Verde"
+    },
+    {
+        "CUESTA VEGA": "Naranja"
+    },
+    {
+        "CALLE VENTOSA": "Verde"
+    },
+    {
+        "CALLE VILLA": "Verde"
+    },
+    {
+        "PLAZA VIRGEN DE LA PALOMA": "Verde"
+    },
+    {
+        "CALLE AMAZONAS": "Verde"
+    },
+    {
+        "CALLE AMPARO": "Verde"
+    },
+    {
+        "CALLE ARGANZUELA": "Verde"
+    },
+    {
+        "CALLE ARGUMOSA": "Verde"
+    },
+    {
+        "CALLE ATOCHA": "Verde"
+    },
+    {
+        "RONDA ATOCHA": "Verde"
+    },
+    {
+        "CALLE AVE MARIA": "Verde"
+    },
+    {
+        "CALLE BUENAVISTA": "Verde"
+    },
+    {
+        "PLAZA CAMPILLO DEL MUNDO NUEVO": "Verde"
+    },
+    {
+        "CALLE CA�IZARES": "Verde"
+    },
+    {
+        "CALLE CAPITAN SALAZAR MARTINEZ": "Verde"
+    },
+    {
+        "CALLE CARLOS ARNICHES": "Verde"
+    },
+    {
+        "PLAZA CASCORRO": "Verde"
+    },
+    {
+        "CALLE CASINO": "Verde"
+    },
+    {
+        "CALLE COLEGIATA": "Verde"
+    },
+    {
+        "CALLE CONCEPCION JERONIMA": "Verde"
+    },
+    {
+        "CALLE CONDE DE ROMANONES": "Verde"
+    },
+    {
+        "CALLE DOCTOR CORTEZO": "Verde"
+    },
+    {
+        "CALLE DOCTOR FOURQUET": "Verde"
+    },
+    {
+        "CALLE DOCTOR PIGA": "Verde"
+    },
+    {
+        "CALLE DUQUE DE ALBA": "Verde"
+    },
+    {
+        "CALLE DUQUE DE FERNAN NU�EZ": "Verde"
+    },
+    {
+        "CALLE DUQUE DE RIVAS": "Verde"
+    },
+    {
+        "CALLE EMBAJADORES": "Verde"
+    },
+    {
+        "GLORIETA EMBAJADORES": "Verde"
+    },
+    {
+        "CALLE ESCUADRA": "Verde"
+    },
+    {
+        "CALLE ESPERANZA": "Verde"
+    },
+    {
+        "CALLE ESTUDIOS": "Verde"
+    },
+    {
+        "PLAZA GENERAL VARA DE REY": "Verde"
+    },
+    {
+        "CALLE HOSPITAL": "Verde"
+    },
+    {
+        "CALLE HUERTA DEL BAYO": "Verde"
+    },
+    {
+        "CALLE JESUS Y MARIA": "Verde"
+    },
+    {
+        "CALLE JUANELO": "Verde"
+    },
+    {
+        "CALLE LAVAPIES": "Verde"
+    },
+    {
+        "CALLE LOPEZ SILVA": "Verde"
+    },
+    {
+        "CALLE LUIS VELEZ DE GUEVARA": "Verde"
+    },
+    {
+        "CALLE MAGDALENA": "Verde"
+    },
+    {
+        "CALLE MALLORCA": "Verde"
+    },
+    {
+        "CALLE MARQUES DE TOCA": "Verde"
+    },
+    {
+        "CALLEJON MELLIZO": "Verde"
+    },
+    {
+        "CALLE MESON DE PAREDES": "Verde"
+    },
+    {
+        "CALLE MIGUEL SERVET": "Verde"
+    },
+    {
+        "CALLE MIRA EL RIO BAJA": "Verde"
+    },
+    {
+        "CALLE MIRA EL SOL": "Verde"
+    },
+    {
+        "CALLE OLIVAR": "Verde"
+    },
+    {
+        "CALLE OLMO": "Verde"
+    },
+    {
+        "CALLE PE�A DE FRANCIA": "Verde"
+    },
+    {
+        "CALLE PROVISIONES": "Verde"
+    },
+    {
+        "GLORIETA PUERTA DE TOLEDO": "Verde"
+    },
+    {
+        "CALLE RIBERA DE CURTIDORES": "Verde"
+    },
+    {
+        "CALLE SALITRE": "Verde"
+    },
+    {
+        "CALLE SAN CARLOS": "Verde"
+    },
+    {
+        "CALLE SAN COSME Y SAN DAMIAN": "Verde"
+    },
+    {
+        "CALLE SAN EUGENIO": "Verde"
+    },
+    {
+        "CALLE SAN ILDEFONSO": "Verde"
+    },
+    {
+        "CALLE SAN MILLAN": "Verde"
+    },
+    {
+        "CALLE SAN SIMON": "Verde"
+    },
+    {
+        "CALLE SANTA INES": "Verde"
+    },
+    {
+        "CALLE SANTA ISABEL": "Verde"
+    },
+    {
+        "CALLE SOMBRERERIA": "Verde"
+    },
+    {
+        "PLAZA TIRSO DE MOLINA": "Verde"
+    },
+    {
+        "RONDA TOLEDO": "Verde"
+    },
+    {
+        "CALLE TORRECILLA DEL LEAL": "Verde"
+    },
+    {
+        "CALLE TRES PECES": "Verde"
+    },
+    {
+        "CALLE VALENCIA": "Verde"
+    },
+    {
+        "RONDA VALENCIA": "Verde"
+    },
+    {
+        "CALLE ZURITA": "Verde"
+    },
+    {
+        "CALLE ALAMEDA": "Verde"
+    },
+    {
+        "CALLE ALMADEN": "Verde"
+    },
+    {
+        "CALLE AMOR DE DIOS": "Verde"
+    },
+    {
+        "CALLE ARLABAN": "Verde"
+    },
+    {
+        "CALLE CABALLERO DE GRACIA": "Verde"
+    },
+    {
+        "PLAZA CANOVAS DEL CASTILLO": "Verde"
+    },
+    {
+        "CALLE CENICERO": "Verde"
+    },
+    {
+        "CALLE CERVANTES": "Verde"
+    },
+    {
+        "CALLE CLAVEL": "Verde"
+    },
+    {
+        "CALLE DUQUE DE MEDINACELI": "Verde"
+    },
+    {
+        "CALLE ESPOZ Y MINA": "Verde"
+    },
+    {
+        "CALLE JESUS": "Verde"
+    },
+    {
+        "PLAZA JESUS": "Verde"
+    },
+    {
+        "CALLE JOVELLANOS": "Verde"
+    },
+    {
+        "CALLE LEON": "Verde"
+    },
+    {
+        "CALLE LOPE DE VEGA": "Verde"
+    },
+    {
+        "CALLE LOS MADRAZO": "Verde"
+    },
+    {
+        "CALLE MARQUES DE CASA RIERA": "Verde"
+    },
+    {
+        "CALLE MARQUES DE CUBAS": "Verde"
+    },
+    {
+        "CALLE MORATIN": "Verde"
+    },
+    {
+        "CALLE PRADO": "Verde"
+    },
+    {
+        "PASEO PRADO": "Verde"
+    },
+    {
+        "CALLE PRINCIPE": "Verde"
+    },
+    {
+        "CALLE SAN AGUSTIN": "Verde"
+    },
+    {
+        "CALLE SAN PEDRO": "Verde"
+    },
+    {
+        "CALLE SAN SEBASTIAN": "Verde"
+    },
+    {
+        "CALLE SANTA CATALINA": "Verde"
+    },
+    {
+        "CALLE VERONICA": "Verde"
+    },
+    {
+        "CALLE VIRGEN DE LOS PELIGROS": "Verde"
+    },
+    {
+        "CALLE ALMIRANTE": "Verde"
+    },
+    {
+        "CALLE ANTONIO FLORES": "Verde"
+    },
+    {
+        "CALLE APODACA": "Verde"
+    },
+    {
+        "CALLE ARGENSOLA": "Verde"
+    },
+    {
+        "CALLE AUGUSTO FIGUEROA": "Verde"
+    },
+    {
+        "CALLE BARBARA DE BRAGANZA": "Verde"
+    },
+    {
+        "CALLE BARCELO": "Verde"
+    },
+    {
+        "CALLE BARQUILLO": "Verde"
+    },
+    {
+        "CALLE BELEN": "Verde"
+    },
+    {
+        "TRAVESIA BELEN": "Verde"
+    },
+    {
+        "CALLE BENEFICENCIA": "Verde"
+    },
+    {
+        "CALLE CAMPOAMOR": "Verde"
+    },
+    {
+        "CALLE CHURRUCA": "Verde"
+    },
+    {
+        "CALLE COLMENARES": "Verde"
+    },
+    {
+        "CALLE CONDE DE XIQUENA": "Verde"
+    },
+    {
+        "CALLE FERNANDO VI": "Verde"
+    },
+    {
+        "TRAVESIA FLORIDA": "Verde"
+    },
+    {
+        "CALLE FUENCARRAL": "Verde"
+    },
+    {
+        "CALLE GENERAL CASTA�OS": "Verde"
+    },
+    {
+        "CALLE GENOVA": "Verde"
+    },
+    {
+        "CALLE GRAVINA": "Verde"
+    },
+    {
+        "CALLE HERMANOS ALVAREZ QUINTERO": "Verde"
+    },
+    {
+        "CALLE HORTALEZA": "Verde"
+    },
+    {
+        "CALLE INFANTAS": "Verde"
+    },
+    {
+        "CALLE JUSTINIANO": "Verde"
+    },
+    {
+        "CALLE LARRA": "Verde"
+    },
+    {
+        "CALLE LIBERTAD": "Verde"
+    },
+    {
+        "CALLE LUIS DE GONGORA": "Verde"
+    },
+    {
+        "CALLE MARQUES DE LA ENSENADA": "Verde"
+    },
+    {
+        "CALLE MARQUES DE MONASTERIO": "Verde"
+    },
+    {
+        "CALLE MARQUES DE VALDEIGLESIAS": "Verde"
+    },
+    {
+        "CALLE MEJIA LEQUERICA": "Verde"
+    },
+    {
+        "CALLE ORELLANA": "Verde"
+    },
+    {
+        "PLAZA PEDRO ZEROLO": "Verde"
+    },
+    {
+        "CALLE PELAYO": "Verde"
+    },
+    {
+        "CALLE PIAMONTE": "Verde"
+    },
+    {
+        "CALLE PRIM": "Verde"
+    },
+    {
+        "CALLE REINA": "Verde"
+    },
+    {
+        "PLAZA REY": "Verde"
+    },
+    {
+        "PLAZA SALESAS": "Verde"
+    },
+    {
+        "CALLE SAN GREGORIO": "Verde"
+    },
+    {
+        "CALLE SAN LORENZO": "Verde"
+    },
+    {
+        "CALLE SAN LUCAS": "Verde"
+    },
+    {
+        "CALLE SAN MARCOS": "Verde"
+    },
+    {
+        "CALLE SAN MATEO": "Verde"
+    },
+    {
+        "TRAVESIA SAN MATEO": "Verde"
+    },
+    {
+        "CALLE SANTA BRIGIDA": "Verde"
+    },
+    {
+        "CALLE SANTA TERESA": "Verde"
+    },
+    {
+        "CALLE SANTO TOME": "Verde"
+    },
+    {
+        "CALLE SERRANO ANGUITA": "Verde"
+    },
+    {
+        "CALLE TAMAYO Y BAUS": "Verde"
+    },
+    {
+        "CALLE VICTOR HUGO": "Verde"
+    },
+    {
+        "CALLE ACUERDO": "Verde"
+    },
+    {
+        "CALLE AMANIEL": "Verde"
+    },
+    {
+        "CALLE ANTONIO GRILO": "Verde"
+    },
+    {
+        "CALLE BALLESTA": "Verde"
+    },
+    {
+        "CALLE BALTASAR GRACIAN": "Verde"
+    },
+    {
+        "CALLE BARCO": "Verde"
+    },
+    {
+        "TRAVESIA BEATAS": "Verde"
+    },
+    {
+        "CALLE BERNARDO LOPEZ GARCIA": "Verde"
+    },
+    {
+        "CALLE CASTO PLASENCIA": "Verde"
+    },
+    {
+        "CALLE COLON": "Verde"
+    },
+    {
+        "CALLE CONCEPCION ARENAL": "Verde"
+    },
+    {
+        "PLAZA CONDE DE TORENO": "Verde"
+    },
+    {
+        "CALLE CONDE DUQUE": "Verde"
+    },
+    {
+        "TRAVESIA CONDE DUQUE": "Verde"
+    },
+    {
+        "CALLE CORREDERA BAJA DE SAN PABLO": "Verde"
+    },
+    {
+        "PLAZA CRISTINO MARTOS": "Verde"
+    },
+    {
+        "CALLE DESENGA�O": "Verde"
+    },
+    {
+        "CALLE DIVINO PASTOR": "Verde"
+    },
+    {
+        "CALLE DON FELIPE": "Verde"
+    },
+    {
+        "CALLE DOS DE MAYO": "Verde"
+    },
+    {
+        "CALLE DUQUE DE LIRIA": "Verde"
+    },
+    {
+        "CALLE ESPIRITU SANTO": "Verde"
+    },
+    {
+        "CALLE GARCIA MOLINAS": "Verde"
+    },
+    {
+        "CALLE GENERAL MITRE": "Verde"
+    },
+    {
+        "CALLE JESUS DEL VALLE": "Verde"
+    },
+    {
+        "CALLE JUAN DE DIOS": "Verde"
+    },
+    {
+        "CALLE LIMON": "Verde"
+    },
+    {
+        "CALLE MADERA": "Verde"
+    },
+    {
+        "CALLE MAESTRO GUERRERO": "Verde"
+    },
+    {
+        "CALLE MANUELA MALASA�A": "Verde"
+    },
+    {
+        "CALLE MARQUES DE SANTA ANA": "Verde"
+    },
+    {
+        "CALLE MARTIRES DE ALCALA": "Verde"
+    },
+    {
+        "CALLE MINAS": "Verde"
+    },
+    {
+        "CALLE MONTELEON": "Verde"
+    },
+    {
+        "CALLE MONTSERRAT": "Verde"
+    },
+    {
+        "PLAZA MOSTENSES": "Verde"
+    },
+    {
+        "CALLE NEGRAS": "Verde"
+    },
+    {
+        "CALLE NORTE": "Verde"
+    },
+    {
+        "CALLE NOVICIADO": "Verde"
+    },
+    {
+        "CALLE PEZ": "Verde"
+    },
+    {
+        "CALLE PONCIANO": "Verde"
+    },
+    {
+        "CALLE POZAS": "Verde"
+    },
+    {
+        "CALLE PUEBLA": "Verde"
+    },
+    {
+        "CALLE QUI�ONES": "Verde"
+    },
+    {
+        "CALLE REYES": "Verde"
+    },
+    {
+        "CALLE RICARDO LEON": "Verde"
+    },
+    {
+        "GLORIETA RUIZ JIMENEZ": "Verde"
+    },
+    {
+        "CALLE RUIZ": "Verde"
+    },
+    {
+        "CALLE SAN ANDRES": "Verde"
+    },
+    {
+        "CALLE SAN BERNARDINO": "Verde"
+    },
+    {
+        "CALLE SAN BERNARDO": "Verde"
+    },
+    {
+        "CALLE SAN DIMAS": "Verde"
+    },
+    {
+        "CALLE SAN HERMENEGILDO": "Verde"
+    },
+    {
+        "PLAZA SAN ILDEFONSO": "Verde"
+    },
+    {
+        "CALLE SAN JOAQUIN": "Verde"
+    },
+    {
+        "CALLE SAN LEONARDO": "Verde"
+    },
+    {
+        "COSTANILLA SAN VICENTE": "Verde"
+    },
+    {
+        "CALLE SANTA CRUZ DE MARCENADO": "Verde"
+    },
+    {
+        "CALLE SANTA LUCIA": "Verde"
+    },
+    {
+        "CALLE SEMINARIO DE NOBLES": "Verde"
+    },
+    {
+        "CALLE SERRANO JOVER": "Verde"
+    },
+    {
+        "CALLE TESORO": "Verde"
+    },
+    {
+        "CALLE TUDESCOS": "Verde"
+    },
+    {
+        "CALLE VALVERDE": "Verde"
+    },
+    {
+        "CALLE ABADA": "Verde"
+    },
+    {
+        "CALLE BORDADORES": "Verde"
+    },
+    {
+        "PLAZA CELENQUE": "Verde"
+    },
+    {
+        "CALLE CHINCHILLA": "Verde"
+    },
+    {
+        "CALLE CUCHILLEROS": "Verde"
+    },
+    {
+        "CALLE ESPARTEROS": "Verde"
+    },
+    {
+        "CALLE FLORA": "Verde"
+    },
+    {
+        "CALLE FUENTES": "Verde"
+    },
+    {
+        "PLAZA HERRADORES": "Verde"
+    },
+    {
+        "CALLE HILERAS": "Verde"
+    },
+    {
+        "CALLE IMPERIAL": "Verde"
+    },
+    {
+        "CALLE MAESTRO VICTORIA": "Verde"
+    },
+    {
+        "CALLE MARQUES VIUDO DE PONTEJOS": "Verde"
+    },
+    {
+        "CALLE MESONERO ROMANOS": "Verde"
+    },
+    {
+        "CALLE SALUD": "Verde"
+    },
+    {
+        "CALLE SAN MARTIN": "Verde"
+    },
+    {
+        "PLAZA SAN MARTIN": "Verde"
+    },
+    {
+        "PLAZA SANTA CATALINA DE LOS DONADOS": "Verde"
+    },
+    {
+        "CALLE TETUAN": "Verde"
+    },
+    {
+        "CALLE TRES CRUCES": "Verde"
+    },
+    {
+        "CALLE TRUJILLOS": "Verde"
+    },
+    {
+        "TRAVESIA TRUJILLOS": "Verde"
+    },
+    {
+        "CALLE VENERAS": "Verde"
+    },
+    {
+        "CALLE ALEJANDRO DUMAS": "Verde"
+    },
+    {
+        "CALLE BERCIAL": "Verde"
+    },
+    {
+        "CALLE CHULAPOS": "Verde"
+    },
+    {
+        "CALLE COBOS DE SEGOVIA": "Verde"
+    },
+    {
+        "CALLE DUQUE DE TOVAR": "Verde"
+    },
+    {
+        "CALLE DUQUE DE TOVAR": "Azul"
+    },
+    {
+        "CALLE ETREROS": "Verde"
+    },
+    {
+        "CALLE FOSFORO": "Verde"
+    },
+    {
+        "CALLE GIL IMON": "Verde"
+    },
+    {
+        "TRAVESIA GIL IMON": "Verde"
+    },
+    {
+        "PASEO IMPERIAL": "Verde"
+    },
+    {
+        "PASEO IMPERIAL": "Azul"
+    },
+    {
+        "CALLE JEMENU�O": "Verde"
+    },
+    {
+        "CALLE JUAN DUQUE": "Verde"
+    },
+    {
+        "CALLE JUAN DUQUE": "Azul"
+    },
+    {
+        "CALLE LEONOR DE LA VEGA": "Verde"
+    },
+    {
+        "CALLE LINNEO": "Verde"
+    },
+    {
+        "CALLE MANZANARES": "Verde"
+    },
+    {
+        "CALLE MARMOL": "Verde"
+    },
+    {
+        "CALLE MAZARREDO": "Verde"
+    },
+    {
+        "PASEO MELANCOLICOS": "Verde"
+    },
+    {
+        "PASEO MELANCOLICOS": "Azul"
+    },
+    {
+        "TRAVESIA MELANCOLICOS": "Azul"
+    },
+    {
+        "CALLE MORENO NIETO": "Verde"
+    },
+    {
+        "CALLE MU�OPEDRO": "Verde"
+    },
+    {
+        "CALLE PARADINAS": "Verde"
+    },
+    {
+        "CALLE PIZARRA": "Verde"
+    },
+    {
+        "PASEO PONTONES": "Verde"
+    },
+    {
+        "PASEO PONTONES": "Azul"
+    },
+    {
+        "CALLE RUY GONZALEZ DE CLAVIJO": "Verde"
+    },
+    {
+        "CALLE SAN ALEJANDRO": "Verde"
+    },
+    {
+        "CALLE SAN EPIFANIO": "Verde"
+    },
+    {
+        "PUENTE SAN ISIDRO": "Verde"
+    },
+    {
+        "CALLE SANGARCIA": "Verde"
+    },
+    {
+        "CALLE SANTA CASILDA": "Verde"
+    },
+    {
+        "CALLE SANTA MARIA LA REAL DE NIEVA": "Verde"
+    },
+    {
+        "CALLE SANTA MARIA LA REAL DE NIEVA": "Azul"
+    },
+    {
+        "CALLE SEGOVIA": "Azul"
+    },
+    {
+        "RONDA SEGOVIA": "Azul"
+    },
+    {
+        "CALLE VILLOSLADA": "Verde"
+    },
+    {
+        "PASEO VIRGEN DEL PUERTO": "Verde"
+    },
+    {
+        "PASEO VIRGEN DEL PUERTO": "Azul"
+    },
+    {
+        "CALLE ARGANDA": "Verde"
+    },
+    {
+        "CALLE ARGANDA": "Azul"
+    },
+    {
+        "CALLE ARQUITECTURA": "Verde"
+    },
+    {
+        "CALLE BA�OS DE MONTEMAYOR": "Verde"
+    },
+    {
+        "CALLE CARMEN COBE�A": "Verde"
+    },
+    {
+        "CALLE CARMEN COBE�A": "Azul"
+    },
+    {
+        "CALLE CARVAJALES": "Verde"
+    },
+    {
+        "BARRIO CASABLANCA": "Verde"
+    },
+    {
+        "CALLE CIGARRERAS": "Verde"
+    },
+    {
+        "CALLE CONCEJAL BENITO MARTIN LOZANO": "Verde"
+    },
+    {
+        "CALLE EMBAJADORES": "Azul"
+    },
+    {
+        "CALLE ERCILLA": "Verde"
+    },
+    {
+        "PASEO ESPERANZA": "Verde"
+    },
+    {
+        "PASEO ESPERANZA": "Azul"
+    },
+    {
+        "CALLE GARGANTILLA": "Verde"
+    },
+    {
+        "CALLE GASOMETRO": "Verde"
+    },
+    {
+        "PASEO JUAN ANTONIO VALLEJO-N�JERA BOTAS": "Verde"
+    },
+    {
+        "CALLE LABRADOR": "Verde"
+    },
+    {
+        "CALLE LAUREL": "Verde"
+    },
+    {
+        "CALLE MAJUELO": "Verde"
+    },
+    {
+        "CALLE MARTIN DE VARGAS": "Verde"
+    },
+    {
+        "CALLE MELILLA": "Verde"
+    },
+    {
+        "CALLE MORATINES": "Verde"
+    },
+    {
+        "CALLE NAVES": "Verde"
+    },
+    {
+        "CALLE NOGALES": "Azul"
+    },
+    {
+        "PASEO OLMOS": "Verde"
+    },
+    {
+        "PASEO OLMOS": "Azul"
+    },
+    {
+        "CALLE PALO DE ROSA": "Verde"
+    },
+    {
+        "CALLE PE�UELAS": "Verde"
+    },
+    {
+        "CALLE POZUELO DE ZARZON": "Verde"
+    },
+    {
+        "CALLE RIBERA DE CURTIDORES": "Azul"
+    },
+    {
+        "CALLE SAN ANASTASIO": "Verde"
+    },
+    {
+        "CALLE SAN ISIDORO DE SEVILLA": "Verde"
+    },
+    {
+        "TRAVESIA SAN ISIDORO DE SEVILLA": "Verde"
+    },
+    {
+        "PASEO SANTA MARIA DE LA CABEZA": "Azul"
+    },
+    {
+        "CALLE SANTOCILDES": "Verde"
+    },
+    {
+        "CALLE SORIA": "Verde"
+    },
+    {
+        "CALLE SORIA": "Azul"
+    },
+    {
+        "CALLE TOLEDO": "Azul"
+    },
+    {
+        "RONDA TOLEDO": "Azul"
+    },
+    {
+        "CALLE VALDELASIERRA": "Verde"
+    },
+    {
+        "CALLE VILLA DE ARBANCON": "Verde"
+    },
+    {
+        "PASEO YESERIAS": "Verde"
+    },
+    {
+        "PASEO YESERIAS": "Azul"
+    },
+    {
+        "CALLE AGUILON": "Verde"
+    },
+    {
+        "CALLE ALDEA DEL FRESNO": "Verde"
+    },
+    {
+        "CALLE ALEJANDRO SAINT AUBIN": "Verde"
+    },
+    {
+        "CALLE ALONSO CARBONELL": "Verde"
+    },
+    {
+        "CALLE BENITO VALDERAS": "Azul"
+    },
+    {
+        "CALLE CACERES": "Verde"
+    },
+    {
+        "PASEO CHOPERA": "Verde"
+    },
+    {
+        "PASEO CHOPERA": "Azul"
+    },
+    {
+        "CALLE DIVINO VALLES": "Verde"
+    },
+    {
+        "CALLE DOMINGO PEREZ DEL VAL": "Verde"
+    },
+    {
+        "CALLE ENRIQUE TROMPETA": "Verde"
+    },
+    {
+        "CALLE EUGENIO SELLES": "Verde"
+    },
+    {
+        "CALLE FERNANDO POO": "Verde"
+    },
+    {
+        "PLAZA GENERAL MAROTO": "Verde"
+    },
+    {
+        "CALLE GENERAL PALANCA": "Verde"
+    },
+    {
+        "CALLE GUILLERMO DE OSMA": "Verde"
+    },
+    {
+        "CALLE GUILLERMO DE OSMA": "Azul"
+    },
+    {
+        "CALLE JAIME EL CONQUISTADOR": "Azul"
+    },
+    {
+        "CALLE JAIME EL CONQUISTADOR": "Verde"
+    },
+    {
+        "PLAZA JOSE DE VILLARREAL": "Verde"
+    },
+    {
+        "CALLE JOSE MIGUEL GORDOA": "Verde"
+    },
+    {
+        "CALLE PARROCO JULIO MORATE": "Verde"
+    },
+    {
+        "PLAZA RUTILIO GACIS": "Verde"
+    },
+    {
+        "CALLE SAN DANIEL": "Verde"
+    },
+    {
+        "CALLE SAN EVARISTO": "Verde"
+    },
+    {
+        "CALLE SAN FELIX": "Verde"
+    },
+    {
+        "CALLE TOMAS BORRAS": "Verde"
+    },
+    {
+        "CALLE TORRES MIRANDA": "Verde"
+    },
+    {
+        "CALLE VOLUNTARIOS MACABEBES": "Verde"
+    },
+    {
+        "CALLE ALGETE": "Verde"
+    },
+    {
+        "CALLE ANDRES DE URDANETA": "Verde"
+    },
+    {
+        "CALLE ANTRACITA": "Verde"
+    },
+    {
+        "CALLE ANTRACITA": "Azul"
+    },
+    {
+        "CALLE ARIEL": "Verde"
+    },
+    {
+        "CALLE ARIEL": "Azul"
+    },
+    {
+        "CALLE BOLIVAR": "Verde"
+    },
+    {
+        "CALLE BRONCE": "Verde"
+    },
+    {
+        "CALLE BRONCE": "Azul"
+    },
+    {
+        "CALLE CROMO": "Verde"
+    },
+    {
+        "CALLE EL SOTO": "Verde"
+    },
+    {
+        "CALLE EL SOTO": "Azul"
+    },
+    {
+        "CALLE ENRIQUE SIMONIS": "Verde"
+    },
+    {
+        "CALLE EROS": "Verde"
+    },
+    {
+        "CALLE ESTRELLA HADAR": "Verde"
+    },
+    {
+        "CALLE FRIGILIANA": "Verde"
+    },
+    {
+        "CALLE HIERRO": "Verde"
+    },
+    {
+        "CALLE HIERRO": "Azul"
+    },
+    {
+        "CALLE JOSE ANTONIO ZAPATA": "Verde"
+    },
+    {
+        "CALLE JULIAN RABANEDO": "Verde"
+    },
+    {
+        "CALLE LITIO": "Verde"
+    },
+    {
+        "CALLE MAESTRO ARBOS": "Azul"
+    },
+    {
+        "CALLE MAESTRO ARBOS": "Verde"
+    },
+    {
+        "CALLE MANUEL ALEIXANDRE": "Verde"
+    },
+    {
+        "AVENIDA MANZANARES": "Azul"
+    },
+    {
+        "CALLE MENDEZ ALVARO": "Verde"
+    },
+    {
+        "CALLE MENESES": "Azul"
+    },
+    {
+        "PASEO MOLINO": "Azul"
+    },
+    {
+        "CALLE NEREIDA": "Verde"
+    },
+    {
+        "CALLE NERJA": "Verde"
+    },
+    {
+        "CALLE NESTARES": "Verde"
+    },
+    {
+        "CALLE ONICE": "Verde"
+    },
+    {
+        "CALLE PLANETA TIERRA": "Verde"
+    },
+    {
+        "CALLE PLOMO": "Verde"
+    },
+    {
+        "CALLE PLOMO": "Azul"
+    },
+    {
+        "CALLE PUERTO DE BEJAR": "Verde"
+    },
+    {
+        "CALLE PUERTO DE BEJAR": "Azul"
+    },
+    {
+        "CALLE PUERTO DE LA CRUZ VERDE": "Verde"
+    },
+    {
+        "CALLE PUERTO DE LA CRUZ VERDE": "Azul"
+    },
+    {
+        "CALLE PUERTO DE MIRAVETE": "Verde"
+    },
+    {
+        "CALLE PUERTO SERRANO": "Verde"
+    },
+    {
+        "CALLE RICARDO DAMAS": "Verde"
+    },
+    {
+        "CALLE RICARDO DAMAS": "Azul"
+    },
+    {
+        "CALLE RICARDO GOIZUETA": "Verde"
+    },
+    {
+        "CALLE RODIO": "Verde"
+    },
+    {
+        "CALLE RODIO": "Azul"
+    },
+    {
+        "CALLE SODIO": "Verde"
+    },
+    {
+        "CALLE TENIENTE CORONEL NORE�A": "Verde"
+    },
+    {
+        "CALLE TERESA LOPEZ VALCARCEL": "Verde"
+    },
+    {
+        "CALLE TITAN": "Verde"
+    },
+    {
+        "CALLE TITAN": "Azul"
+    },
+    {
+        "CALLE VALDEMORILLO": "Verde"
+    },
+    {
+        "CALLE VILLARROBLEDO": "Azul"
+    },
+    {
+        "CALLE VI�UELAS": "Verde"
+    },
+    {
+        "CALLE ALEJANDRO FERRANT": "Verde"
+    },
+    {
+        "CALLE ALICANTE": "Verde"
+    },
+    {
+        "CALLE ALONSO MARTOS": "Verde"
+    },
+    {
+        "CALLE AMALTEA": "Verde"
+    },
+    {
+        "PLAZA AMANECER EN MENDEZ ALVARO": "Verde"
+    },
+    {
+        "CALLE BATALLA DEL SALADO": "Azul"
+    },
+    {
+        "CALLE BATALLA DEL SALADO": "Verde"
+    },
+    {
+        "CALLE BUSTAMANTE": "Verde"
+    },
+    {
+        "PLAZA CASAR DE CACERES": "Verde"
+    },
+    {
+        "CALLE CASTOR Y POLUX": "Azul"
+    },
+    {
+        "CALLE CASTOR Y POLUX": "Verde"
+    },
+    {
+        "CALLE CIUDAD REAL": "Verde"
+    },
+    {
+        "CALLE COBRE": "Verde"
+    },
+    {
+        "CALLE COBRE": "Azul"
+    },
+    {
+        "CALLE CRISTO DEL CAMINO": "Verde"
+    },
+    {
+        "PASEO DELICIAS": "Azul"
+    },
+    {
+        "PASEO DELICIAS": "Verde"
+    },
+    {
+        "CALLE EL ATAZAR": "Verde"
+    },
+    {
+        "CALLE ESTRELLA DENEBOLA": "Azul"
+    },
+    {
+        "CALLE ESTRELLA DENEBOLA": "Verde"
+    },
+    {
+        "CALLE ESTRELLA NAOS": "Verde"
+    },
+    {
+        "CALLE ESTRELLA SHAULA": "Verde"
+    },
+    {
+        "CALLE FERROCARRIL": "Azul"
+    },
+    {
+        "CALLE FERROCARRIL": "Verde"
+    },
+    {
+        "CALLE GENERAL LACY": "Verde"
+    },
+    {
+        "CALLE GRANITO": "Verde"
+    },
+    {
+        "CALLE ISIDORO �LVAREZ �LVAREZ": "Azul"
+    },
+    {
+        "CALLE ISIDORO �LVAREZ �LVAREZ": "Verde"
+    },
+    {
+        "CALLE JUAN DE MARIANA": "Verde"
+    },
+    {
+        "CALLE JUAN DE MARIANA": "Azul"
+    },
+    {
+        "CALLE JUAN DE VERA": "Verde"
+    },
+    {
+        "CALLE JUAN MARTIN EL EMPECINADO": "Azul"
+    },
+    {
+        "CALLE JUAN MARTIN EL EMPECINADO": "Verde"
+    },
+    {
+        "CALLE JUANA DO�A": "Verde"
+    },
+    {
+        "CALLE LUIS PARET": "Verde"
+    },
+    {
+        "CALLE MEJORADA DEL CAMPO": "Verde"
+    },
+    {
+        "CALLE MEZQUITE": "Verde"
+    },
+    {
+        "CALLE NEBULOSAS": "Verde"
+    },
+    {
+        "CALLE ORIANA": "Verde"
+    },
+    {
+        "CALLE PARROCO EUSEBIO CUENCA": "Verde"
+    },
+    {
+        "CALLE PARROCO EUSEBIO CUENCA": "Azul"
+    },
+    {
+        "CALLE PATIO DE SERVICIO": "Verde"
+    },
+    {
+        "AVENIDA PLANETARIO": "Verde"
+    },
+    {
+        "CALLE RAFAEL DE RIEGO": "Verde"
+    },
+    {
+        "CALLE RAMIREZ DE PRADO": "Verde"
+    },
+    {
+        "CALLE SABAL": "Verde"
+    },
+    {
+        "CALLE TOMAS BRETON": "Verde"
+    },
+    {
+        "CALLE TOMAS BRETON": "Azul"
+    },
+    {
+        "CALLE TURMALINA": "Verde"
+    },
+    {
+        "CALLE VARA DE REY": "Verde"
+    },
+    {
+        "CALLE VILLA DEL PRADO": "Verde"
+    },
+    {
+        "CALLE ALONSO DEL BARCO": "Verde"
+    },
+    {
+        "CALLE ANCORA": "Azul"
+    },
+    {
+        "CALLE ANCORA": "Verde"
+    },
+    {
+        "RONDA ATOCHA": "Azul"
+    },
+    {
+        "CALLE BERNARDINO OBREGON": "Verde"
+    },
+    {
+        "CALLE CANARIAS": "Verde"
+    },
+    {
+        "CALLE CARDENAL SOLIS": "Verde"
+    },
+    {
+        "CALLE DELICIAS": "Verde"
+    },
+    {
+        "CALLE FRAY LUIS DE LEON": "Verde"
+    },
+    {
+        "CALLE JOSE ANTONIO DE ARMONA": "Verde"
+    },
+    {
+        "CALLE JOSE MARIA ROQUERO": "Verde"
+    },
+    {
+        "PLAZA LUCA DE TENA": "Azul"
+    },
+    {
+        "PLAZA LUCA DE TENA": "Verde"
+    },
+    {
+        "CALLE MARQUES DE LA VALDAVIA": "Verde"
+    },
+    {
+        "CALLE MARTIN SOLER": "Verde"
+    },
+    {
+        "CALLE MURCIA": "Verde"
+    },
+    {
+        "CALLE PALOS DE LA FRONTERA": "Verde"
+    },
+    {
+        "CALLE PALOS DE LA FRONTERA": "Azul"
+    },
+    {
+        "CALLE PEDRO UNANUE": "Verde"
+    },
+    {
+        "PASEO SANTA MARIA DE LA CABEZA": "Verde"
+    },
+    {
+        "CALLE SEBASTIAN ELCANO": "Verde"
+    },
+    {
+        "CALLE SEBASTIAN HERRERA": "Verde"
+    },
+    {
+        "CALLE TARRAGONA": "Verde"
+    },
+    {
+        "CALLE TORTOSA": "Verde"
+    },
+    {
+        "RONDA VALENCIA": "Azul"
+    },
+    {
+        "CALLE VIZCAYA": "Verde"
+    },
+    {
+        "CALLE ACANTO": "Azul"
+    },
+    {
+        "CALLE ALAMEDILLA": "Verde"
+    },
+    {
+        "CALLE ALBERCHE": "Verde"
+    },
+    {
+        "CALLE ALMEZ": "Verde"
+    },
+    {
+        "CALLE ALPEDRETE": "Verde"
+    },
+    {
+        "CALLE COMERCIO": "Verde"
+    },
+    {
+        "CALLE GARGANTA DE LOS MONTES": "Azul"
+    },
+    {
+        "CALLE GARGANTA DE LOS MONTES": "Verde"
+    },
+    {
+        "CALLE JACARANDA": "Verde"
+    },
+    {
+        "CALLE KENTIA": "Azul"
+    },
+    {
+        "CALLE MENDEZ ALVARO": "Azul"
+    },
+    {
+        "CALLE OMBU": "Azul"
+    },
+    {
+        "CALLE RETAMA": "Azul"
+    },
+    {
+        "CALLE TAMARINDO": "Azul"
+    },
+    {
+        "CALLE TEJO": "Verde"
+    },
+    {
+        "CALLE ABTAO": "Verde"
+    },
+    {
+        "CALLE ANDRES TORREJON": "Verde"
+    },
+    {
+        "CALLE ANTONIO NEBRIJA": "Verde"
+    },
+    {
+        "CALLE BETANIA": "Azul"
+    },
+    {
+        "CALLE CARIDAD": "Verde"
+    },
+    {
+        "CALLE CAVANILLES": "Verde"
+    },
+    {
+        "CALLE CAVANILLES": "Azul"
+    },
+    {
+        "PARTICULAR CAVANILLES": "Verde"
+    },
+    {
+        "PASAJE CAVANILLES": "Azul"
+    },
+    {
+        "CALLE COCHERAS": "Verde"
+    },
+    {
+        "CALLE COMERCIO": "Azul"
+    },
+    {
+        "CALLE DOCTOR ESQUERDO": "Azul"
+    },
+    {
+        "CALLE DOCTOR ESQUERDO": "Verde"
+    },
+    {
+        "CALLE FUENTERRABIA": "Verde"
+    },
+    {
+        "CALLE GENERAL VELARDE": "Verde"
+    },
+    {
+        "CALLE GRANADA": "Verde"
+    },
+    {
+        "CALLE GUTENBERG": "Verde"
+    },
+    {
+        "CALLE HOYUELO": "Verde"
+    },
+    {
+        "PASEO INFANTA ISABEL": "Azul"
+    },
+    {
+        "CALLE JOSE SANCHEZ PESCADOR": "Verde"
+    },
+    {
+        "CALLE JUAN DE URBIETA": "Verde"
+    },
+    {
+        "CALLE JUAN DE URBIETA": "Azul"
+    },
+    {
+        "CALLE JULIAN GAYARRE": "Verde"
+    },
+    {
+        "CALLE LEON GIL DE PALACIO": "Verde"
+    },
+    {
+        "CALLE LEON GIL DE PALACIO": "Azul"
+    },
+    {
+        "AVENIDA MEDITERRANEO": "Azul"
+    },
+    {
+        "AVENIDA MENENDEZ PELAYO": "Verde"
+    },
+    {
+        "AVENIDA MENENDEZ PELAYO": "Azul"
+    },
+    {
+        "CALLE NARCISO SERRA": "Verde"
+    },
+    {
+        "CALLE NUESTRA SE�ORA DE LA PAZ": "Azul"
+    },
+    {
+        "CALLE PEDRO BOSCH": "Azul"
+    },
+    {
+        "CALLE PEDRO BOSCH": "Verde"
+    },
+    {
+        "CALLE REGALADA": "Verde"
+    },
+    {
+        "PASEO REINA CRISTINA": "Azul"
+    },
+    {
+        "CALLE SANCHEZ BARCAIZTEGUI": "Verde"
+    },
+    {
+        "CALLE TELLEZ": "Verde"
+    },
+    {
+        "TRAVESIA TELLEZ": "Verde"
+    },
+    {
+        "CALLE VALDERRIBAS": "Verde"
+    },
+    {
+        "CALLE VALDERRIBAS": "Azul"
+    },
+    {
+        "CALLE VANDERGOTEN": "Verde"
+    },
+    {
+        "CALLE VIGO": "Verde"
+    },
+    {
+        "CALLE ADELFAS": "Verde"
+    },
+    {
+        "CALLE AGUSTIN VI�AMATA": "Verde"
+    },
+    {
+        "CALLE ANDALUCIA": "Verde"
+    },
+    {
+        "CALLE ANDALUCIA": "Azul"
+    },
+    {
+        "CALLE ARREGUI Y ARUEJ": "Verde"
+    },
+    {
+        "CALLE BARRILERO": "Verde"
+    },
+    {
+        "CALLE CAFETO": "Verde"
+    },
+    {
+        "CALLE CALIFORNIA": "Verde"
+    },
+    {
+        "CALLE CARLOS Y GUILLERMO FERNANDEZ SHAW": "Verde"
+    },
+    {
+        "CALLE CATALINA SUAREZ": "Verde"
+    },
+    {
+        "CALLE CERRO DE LA PLATA": "Azul"
+    },
+    {
+        "CALLE CERRO DE LA PLATA": "Verde"
+    },
+    {
+        "CALLE CERRO NEGRO": "Verde"
+    },
+    {
+        "CALLE FEDERICO MORENO TORROBA": "Azul"
+    },
+    {
+        "CALLE FEDERICO MORENO TORROBA": "Verde"
+    },
+    {
+        "CALLE FRANCISCO ABRIL": "Verde"
+    },
+    {
+        "CALLE GANDIA": "Verde"
+    },
+    {
+        "CALLE GARIBAY": "Verde"
+    },
+    {
+        "CALLE HERMANOS RUIZ": "Verde"
+    },
+    {
+        "CALLE JATIVA": "Verde"
+    },
+    {
+        "CALLE JUAN DE JUANES": "Verde"
+    },
+    {
+        "CALLE LOS MESEJO": "Verde"
+    },
+    {
+        "CALLE LUIS MITJANS": "Azul"
+    },
+    {
+        "CALLE LUIS MITJANS": "Verde"
+    },
+    {
+        "CALLE LUIS PEIDRO": "Verde"
+    },
+    {
+        "CALLE MARTINEZ CORROCHANO": "Verde"
+    },
+    {
+        "AVENIDA MEDITERRANEO": "Verde"
+    },
+    {
+        "CALLE NUEVO BAZTAN": "Verde"
+    },
+    {
+        "CALLE PAJARITOS": "Verde"
+    },
+    {
+        "CALLE PAJARITOS": "Azul"
+    },
+    {
+        "CALLE SANTA SABINA": "Azul"
+    },
+    {
+        "CALLE SANTA SABINA": "Verde"
+    },
+    {
+        "CALLE SECO": "Azul"
+    },
+    {
+        "CALLE SECO": "Verde"
+    },
+    {
+        "CALLE TRUEBA": "Verde"
+    },
+    {
+        "CALLE VALERIA": "Verde"
+    },
+    {
+        "CALLE ALCALDE SAINZ DE BARANDA": "Azul"
+    },
+    {
+        "CALLE ALCALDE SAINZ DE BARANDA": "Verde"
+    },
+    {
+        "CALLE ANTONIO CASERO": "Verde"
+    },
+    {
+        "CALLE ASTROS": "Verde"
+    },
+    {
+        "PLAZA ASTROS": "Azul"
+    },
+    {
+        "PASAJE CAN MAYOR": "Verde"
+    },
+    {
+        "PASAJE CAN MENOR": "Verde"
+    },
+    {
+        "PASAJE CARENA": "Verde"
+    },
+    {
+        "CALLE CRUZ DEL SUR": "Verde"
+    },
+    {
+        "CALLE CRUZ DEL SUR": "Azul"
+    },
+    {
+        "PASAJE DORADO": "Verde"
+    },
+    {
+        "PASAJE ESCUDO": "Verde"
+    },
+    {
+        "CALLE ESTRELLA POLAR": "Verde"
+    },
+    {
+        "CALLE ESTRELLA POLAR": "Azul"
+    },
+    {
+        "CALLE JOSE MARTINEZ DE VELASCO": "Verde"
+    },
+    {
+        "CALLE JUAN ESPLANDIU": "Azul"
+    },
+    {
+        "CALLE JUAN ESPLANDIU": "Verde"
+    },
+    {
+        "CALLE LEO": "Verde"
+    },
+    {
+        "PASAJE LINCE": "Verde"
+    },
+    {
+        "CALLE LIRA": "Verde"
+    },
+    {
+        "CALLE MARQUES DE LOZOYA": "Verde"
+    },
+    {
+        "CALLE MATEO LOPEZ": "Verde"
+    },
+    {
+        "CALLE MONEDA": "Verde"
+    },
+    {
+        "CALLE O'DONNELL": "Azul"
+    },
+    {
+        "CALLE PATIO DE LA LITOGRAFIA": "Verde"
+    },
+    {
+        "CALLE PERSEO": "Verde"
+    },
+    {
+        "CALLE PEZ AUSTRAL": "Verde"
+    },
+    {
+        "CALLE PEZ AUSTRAL": "Azul"
+    },
+    {
+        "CALLE PEZ VOLADOR": "Azul"
+    },
+    {
+        "CALLE PEZ VOLADOR": "Verde"
+    },
+    {
+        "CALLE PISCIS": "Verde"
+    },
+    {
+        "CALLE RAFAEL SALAZAR ALONSO": "Verde"
+    },
+    {
+        "CALLE SALIENTE": "Verde"
+    },
+    {
+        "CALLE SAMARIA": "Verde"
+    },
+    {
+        "CALLE SIRIO": "Verde"
+    },
+    {
+        "CALLE VALORES": "Verde"
+    },
+    {
+        "CALLE VAQUERIAS": "Verde"
+    },
+    {
+        "CALLE VICENTE CABALLERO": "Verde"
+    },
+    {
+        "CALLE ANTONIO ACU�A": "Verde"
+    },
+    {
+        "CALLE ANTONIO ARIAS": "Verde"
+    },
+    {
+        "CALLE DOCE DE OCTUBRE": "Verde"
+    },
+    {
+        "CALLE DOCTOR CASTELO": "Azul"
+    },
+    {
+        "CALLE DOCTOR CASTELO": "Verde"
+    },
+    {
+        "CALLE FERNAN GONZALEZ": "Verde"
+    },
+    {
+        "CALLE IBIZA": "Azul"
+    },
+    {
+        "CALLE IBIZA": "Verde"
+    },
+    {
+        "CALLE LOPE DE RUEDA": "Verde"
+    },
+    {
+        "CALLE LOPE DE RUEDA": "Azul"
+    },
+    {
+        "CALLE MAIQUEZ": "Verde"
+    },
+    {
+        "CALLE MAIQUEZ": "Azul"
+    },
+    {
+        "CALLE MENORCA": "Verde"
+    },
+    {
+        "CALLE NARVAEZ": "Azul"
+    },
+    {
+        "CALLE NARVAEZ": "Verde"
+    },
+    {
+        "CALLE O'DONNELL": "Verde"
+    },
+    {
+        "CALLE ACADEMIA": "Verde"
+    },
+    {
+        "CALLE AGUSTIN QUEROL": "Verde"
+    },
+    {
+        "CALLE ALBERTO BOSCH": "Verde"
+    },
+    {
+        "CALLE ALFONSO XI": "Verde"
+    },
+    {
+        "CALLE ALFONSO XI": "Azul"
+    },
+    {
+        "CALLE ALFONSO XII": "Verde"
+    },
+    {
+        "CALLE ALFONSO XII": "Azul"
+    },
+    {
+        "CALLE ANTONIO MAURA": "Azul"
+    },
+    {
+        "CALLE ANTONIO MAURA": "Verde"
+    },
+    {
+        "CALLE CASADO DEL ALISAL": "Verde"
+    },
+    {
+        "CALLE DOCTOR VELASCO": "Verde"
+    },
+    {
+        "PASEO EL SALVADOR": "Azul"
+    },
+    {
+        "CALLE ESPALTER": "Verde"
+    },
+    {
+        "CALLE FELIPE IV": "Verde"
+    },
+    {
+        "CALLE JUAN DE MENA": "Verde"
+    },
+    {
+        "CALLE JUAN VALERA": "Verde"
+    },
+    {
+        "PLAZA LEALTAD": "Azul"
+    },
+    {
+        "PLAZA LEALTAD": "Verde"
+    },
+    {
+        "CALLE LUIS CAMOENS": "Verde"
+    },
+    {
+        "PLAZA MARIANO DE CAVIA": "Verde"
+    },
+    {
+        "CALLE MENDEZ NU�EZ": "Verde"
+    },
+    {
+        "CALLE MONTALBAN": "Verde"
+    },
+    {
+        "CALLE MORETO": "Verde"
+    },
+    {
+        "CALLE POETA ESTEBAN DE VILLEGAS": "Verde"
+    },
+    {
+        "CALLE RUIZ DE ALARCON": "Verde"
+    },
+    {
+        "PASEO URUGUAY": "Azul"
+    },
+    {
+        "CALLE VALENZUELA": "Verde"
+    },
+    {
+        "CALLE AMADO NERVO": "Verde"
+    },
+    {
+        "CALLE ANGEL GANIVET": "Verde"
+    },
+    {
+        "CALLE ANTONIO BIENVENIDA": "Verde"
+    },
+    {
+        "CALLE ANTONIO DIAZ-CA�ABATE": "Verde"
+    },
+    {
+        "CALLE ANUNCIACION": "Verde"
+    },
+    {
+        "CALLE ARIAS MONTANO": "Verde"
+    },
+    {
+        "CALLE AVENDA�O": "Verde"
+    },
+    {
+        "CALLE CONDE DE CARTAGENA": "Verde"
+    },
+    {
+        "CALLE CONDE DE CARTAGENA": "Azul"
+    },
+    {
+        "PLAZA DOCTOR LAGUNA": "Verde"
+    },
+    {
+        "CALLE FRANCISCO VITORIA": "Verde"
+    },
+    {
+        "GLORIETA FUENTIDUE�AS": "Verde"
+    },
+    {
+        "CALLE JERICO": "Verde"
+    },
+    {
+        "CALLE JESUS APRENDIZ": "Verde"
+    },
+    {
+        "CALLE JUAN DE JAUREGUI": "Verde"
+    },
+    {
+        "CALLE JULIO REY PASTOR": "Azul"
+    },
+    {
+        "CALLE JULIO REY PASTOR": "Verde"
+    },
+    {
+        "CALLE MARTIN SARMIENTO": "Verde"
+    },
+    {
+        "AVENIDA NAZARET": "Azul"
+    },
+    {
+        "AVENIDA NAZARET": "Verde"
+    },
+    {
+        "PLAZA NI�O JESUS": "Verde"
+    },
+    {
+        "CALLE PILAR MILLAN ASTRAY": "Verde"
+    },
+    {
+        "CALLE PIO BAROJA": "Azul"
+    },
+    {
+        "CALLE PIO BAROJA": "Verde"
+    },
+    {
+        "CALLE PORTAL DE BELEN": "Verde"
+    },
+    {
+        "CALLE REYES MAGOS": "Verde"
+    },
+    {
+        "PLAZA REYES MAGOS": "Verde"
+    },
+    {
+        "CALLE RONCESVALLES": "Verde"
+    },
+    {
+        "CALLE TITULCIA": "Verde"
+    },
+    {
+        "CALLE VIERA Y CLAVIJO": "Verde"
+    },
+    {
+        "CALLE VIRGEN MARIA": "Verde"
+    },
+    {
+        "CALLE WALIA": "Verde"
+    },
+    {
+        "CALLE AGUIRRE": "Verde"
+    },
+    {
+        "CALLE ALCALA": "Azul"
+    },
+    {
+        "CALLE ALCALA": "Verde"
+    },
+    {
+        "CALLE AYALA": "Azul"
+    },
+    {
+        "CALLE AYALA": "Verde"
+    },
+    {
+        "PASEO CASTELLANA": "Azul"
+    },
+    {
+        "CALLE CASTELLO": "Verde"
+    },
+    {
+        "CALLE CID": "Verde"
+    },
+    {
+        "CALLE CLAUDIO COELLO": "Azul"
+    },
+    {
+        "CALLE CLAUDIO COELLO": "Verde"
+    },
+    {
+        "CALLE COLUMELA": "Azul"
+    },
+    {
+        "CALLE COLUMELA": "Verde"
+    },
+    {
+        "CALLE CONDE DE ARANDA": "Verde"
+    },
+    {
+        "CALLE DON RAMON DE LA CRUZ": "Verde"
+    },
+    {
+        "CALLE GOYA": "Azul"
+    },
+    {
+        "CALLE GOYA": "Verde"
+    },
+    {
+        "CALLE GURTUBAY": "Verde"
+    },
+    {
+        "CALLE HERMOSILLA": "Verde"
+    },
+    {
+        "CALLE HERMOSILLA": "Azul"
+    },
+    {
+        "CALLE LAGASCA": "Azul"
+    },
+    {
+        "CALLE LAGASCA": "Verde"
+    },
+    {
+        "CALLE MARQUES DE ZURGENA": "Verde"
+    },
+    {
+        "CALLE MARQUES DEL DUERO": "Verde"
+    },
+    {
+        "CALLE NU�EZ DE BALBOA": "Verde"
+    },
+    {
+        "CALLE PEDRO MU�OZ SECA": "Verde"
+    },
+    {
+        "CALLE RECOLETOS": "Verde"
+    },
+    {
+        "PASEO RECOLETOS": "Azul"
+    },
+    {
+        "CALLE SALUSTIANO OLOZAGA": "Verde"
+    },
+    {
+        "CALLE VELAZQUEZ": "Azul"
+    },
+    {
+        "CALLE VELAZQUEZ": "Verde"
+    },
+    {
+        "CALLE VILLALAR": "Verde"
+    },
+    {
+        "CALLE VILLANUEVA": "Verde"
+    },
+    {
+        "CALLE ALCANTARA": "Verde"
+    },
+    {
+        "CALLE DUQUE DE SESTO": "Verde"
+    },
+    {
+        "PASAJE ENRIQUE RUANO": "Verde"
+    },
+    {
+        "CALLE ESPARTINAS": "Verde"
+    },
+    {
+        "CALLE FRANCISCA MORENO": "Verde"
+    },
+    {
+        "CALLE FUENTE DEL BERRO": "Verde"
+    },
+    {
+        "CALLE FUENTE DEL BERRO": "Azul"
+    },
+    {
+        "CALLE GENERAL DIAZ PORLIER": "Azul"
+    },
+    {
+        "CALLE GENERAL DIAZ PORLIER": "Verde"
+    },
+    {
+        "CALLE GENERAL PARDI�AS": "Verde"
+    },
+    {
+        "CALLE GENERAL PARDI�AS": "Azul"
+    },
+    {
+        "CALLE JARDIN DE SAN FEDERICO": "Verde"
+    },
+    {
+        "CALLE JORGE JUAN": "Azul"
+    },
+    {
+        "CALLE JORGE JUAN": "Verde"
+    },
+    {
+        "CALLE LOMBIA": "Verde"
+    },
+    {
+        "CALLE MAESTRO VIVES": "Verde"
+    },
+    {
+        "CALLE MARTIRES CONCEPCIONISTAS": "Verde"
+    },
+    {
+        "CALLE MONTESA": "Verde"
+    },
+    {
+        "CALLE NACIONES": "Verde"
+    },
+    {
+        "CALLE POVEDILLA": "Verde"
+    },
+    {
+        "CALLE PRINCIPE DE ASTURIAS": "Verde"
+    },
+    {
+        "CALLE AIZGORRI": "Verde"
+    },
+    {
+        "CALLE ALEJANDRO GONZALEZ": "Azul"
+    },
+    {
+        "CALLE ALEJANDRO GONZALEZ": "Verde"
+    },
+    {
+        "CALLE ALMERIA": "Verde"
+    },
+    {
+        "CALLE AMBROS": "Verde"
+    },
+    {
+        "PLAZA AMERICA ESPA�OLA": "Verde"
+    },
+    {
+        "CALLE ANDRES BELLO": "Verde"
+    },
+    {
+        "CALLE ANTONIO TOLEDANO": "Verde"
+    },
+    {
+        "CALLE ARALAR": "Verde"
+    },
+    {
+        "CALLE AZULEJO": "Verde"
+    },
+    {
+        "CALLE BASILIO PARAISO": "Verde"
+    },
+    {
+        "CALLE BEGO�A": "Verde"
+    },
+    {
+        "CALLE BENITO DE CASTRO": "Verde"
+    },
+    {
+        "CALLE BOCANGEL": "Verde"
+    },
+    {
+        "CALLE CONCEPCION BAHAMONDE": "Verde"
+    },
+    {
+        "CALLE CONDES DE TORREANAZ": "Verde"
+    },
+    {
+        "CALLE DANIEL ZULOAGA": "Verde"
+    },
+    {
+        "CALLE DEMETRIO SANCHEZ": "Verde"
+    },
+    {
+        "CALLE DIEGO BAHAMONDE": "Verde"
+    },
+    {
+        "CALLE DOLORES ROMERO": "Verde"
+    },
+    {
+        "CALLE ELVIRA": "Verde"
+    },
+    {
+        "CALLE ENRIQUE D'ALMONTE": "Verde"
+    },
+    {
+        "CALLE FLORENCIO DIAZ": "Verde"
+    },
+    {
+        "CALLE FUNDADORES": "Verde"
+    },
+    {
+        "CALLE ITURBE": "Verde"
+    },
+    {
+        "CALLE JOSE CELESTINO MUTIS": "Verde"
+    },
+    {
+        "PASAJE LA BISBAL": "Verde"
+    },
+    {
+        "CALLE LANUZA": "Verde"
+    },
+    {
+        "CALLE LEON BONNAT": "Verde"
+    },
+    {
+        "CALLE LOS PE�ASCALES": "Verde"
+    },
+    {
+        "CALLE MAESTRO ALONSO": "Verde"
+    },
+    {
+        "CALLE MARQUES DE LA HERMIDA": "Verde"
+    },
+    {
+        "CALLE MARQUES DE MONDEJAR": "Verde"
+    },
+    {
+        "CALLE MARQUES DE VALLEJO": "Verde"
+    },
+    {
+        "CALLE MARQUES DE ZAFRA": "Azul"
+    },
+    {
+        "CALLE MARQUES DE ZAFRA": "Verde"
+    },
+    {
+        "GLORIETA MARQUES DE ZAFRA": "Verde"
+    },
+    {
+        "PASEO MARQUES DE ZAFRA": "Azul"
+    },
+    {
+        "PASEO MARQUES DE ZAFRA": "Verde"
+    },
+    {
+        "CALLE MERCEDES FORMICA": "Verde"
+    },
+    {
+        "CALLE PEDRO HEREDIA": "Verde"
+    },
+    {
+        "CALLE PEYRE": "Verde"
+    },
+    {
+        "CALLE PINTOR DOMINGUEZ": "Verde"
+    },
+    {
+        "CALLE PORVENIR": "Verde"
+    },
+    {
+        "CALLE RAFAEL JUAN Y SEVA": "Verde"
+    },
+    {
+        "CALLE RAMON DE AGUINAGA": "Verde"
+    },
+    {
+        "CALLE RUFINO BLANCO": "Verde"
+    },
+    {
+        "CALLE SANCHO DAVILA": "Verde"
+    },
+    {
+        "CALLE VICALVARO": "Verde"
+    },
+    {
+        "CALLE VIZCONDE DE MATAMALA": "Verde"
+    },
+    {
+        "AUTOVIA A-2": "Azul"
+    },
+    {
+        "CALLE AGUSTIN DURAN": "Verde"
+    },
+    {
+        "CALLE ALONSO HEREDIA": "Verde"
+    },
+    {
+        "CALLE ALONSO HEREDIA": "Azul"
+    },
+    {
+        "AVENIDA AMERICA": "Azul"
+    },
+    {
+        "AVENIDA AMERICA": "Verde"
+    },
+    {
+        "CALLE AMOROS": "Verde"
+    },
+    {
+        "CALLE ANDRES TAMAYO": "Verde"
+    },
+    {
+        "CALLE ANTONIA RUIZ SORO": "Verde"
+    },
+    {
+        "CALLE ARDEMANS": "Verde"
+    },
+    {
+        "CALLE AZCONA": "Verde"
+    },
+    {
+        "PLAZA BASILEA": "Verde"
+    },
+    {
+        "AVENIDA BAVIERA": "Verde"
+    },
+    {
+        "CALLE BAYONA": "Verde"
+    },
+    {
+        "CALLE BERLIN": "Verde"
+    },
+    {
+        "CALLE BERNA": "Verde"
+    },
+    {
+        "CALLE BIARRITZ": "Verde"
+    },
+    {
+        "CALLE BOLONIA": "Verde"
+    },
+    {
+        "AVENIDA BONN": "Verde"
+    },
+    {
+        "CALLE BOSTON": "Verde"
+    },
+    {
+        "PLAZA BOSTON": "Verde"
+    },
+    {
+        "AVENIDA BRASILIA": "Verde"
+    },
+    {
+        "AVENIDA BRASILIA": "Azul"
+    },
+    {
+        "CALLE BREMEN": "Verde"
+    },
+    {
+        "CALLE BRESCIA": "Verde"
+    },
+    {
+        "CALLE BRESCIA": "Azul"
+    },
+    {
+        "CALLE BRISTOL": "Verde"
+    },
+    {
+        "AVENIDA BRUSELAS": "Azul"
+    },
+    {
+        "AVENIDA BRUSELAS": "Verde"
+    },
+    {
+        "PLAZA BURDEOS": "Verde"
+    },
+    {
+        "AVENIDA CAMILO JOSE CELA": "Verde"
+    },
+    {
+        "AVENIDA CAMILO JOSE CELA": "Azul"
+    },
+    {
+        "CALLE CAMPANAR": "Verde"
+    },
+    {
+        "ARROYO CANALILLO": "Verde"
+    },
+    {
+        "CALLE CANALILLO": "Verde"
+    },
+    {
+        "CAMINO CANILLAS": "Verde"
+    },
+    {
+        "CALLE CARDENAL BELLUGA": "Verde"
+    },
+    {
+        "CALLE CARTAGENA": "Verde"
+    },
+    {
+        "CALLE CARTAGENA": "Azul"
+    },
+    {
+        "CALLE CASTELAR": "Verde"
+    },
+    {
+        "CALLE COLOMER": "Verde"
+    },
+    {
+        "CALLE CONDE DE VILCHES": "Verde"
+    },
+    {
+        "CALLE COSLADA": "Verde"
+    },
+    {
+        "CALLE COSLADA": "Azul"
+    },
+    {
+        "CALLE DOCTOR GOMEZ ULLA": "Azul"
+    },
+    {
+        "CALLE DOCTOR GOMEZ ULLA": "Verde"
+    },
+    {
+        "CALLE EDUARDO VICENTE": "Verde"
+    },
+    {
+        "CALLE ERASO": "Verde"
+    },
+    {
+        "CALLE FERRER DEL RIO": "Verde"
+    },
+    {
+        "CALLE FERRER DEL RIO": "Azul"
+    },
+    {
+        "CALLE FLORESTAN AGUILAR": "Verde"
+    },
+    {
+        "CALLE FRANCISCO ALTIMIRAS": "Verde"
+    },
+    {
+        "CALLE FRANCISCO NAVACERRADA": "Verde"
+    },
+    {
+        "CALLE FRANCISCO REMIRO": "Verde"
+    },
+    {
+        "CALLE FRANCISCO SANTOS": "Verde"
+    },
+    {
+        "CALLE FRANCISCO SILVELA": "Azul"
+    },
+    {
+        "CALLE FRANCISCO ZEA": "Verde"
+    },
+    {
+        "PASAJE FUNDACION": "Verde"
+    },
+    {
+        "CALLE GRANJILLA": "Verde"
+    },
+    {
+        "AVENIDA GUINDALERA": "Azul"
+    },
+    {
+        "AVENIDA GUINDALERA": "Verde"
+    },
+    {
+        "CALLE IRIARTE": "Verde"
+    },
+    {
+        "CALLE JESUS MENDEZ": "Azul"
+    },
+    {
+        "CALLE JOSE MARIA SANCHEZ SILVA": "Verde"
+    },
+    {
+        "CALLE JOSE PICON": "Verde"
+    },
+    {
+        "CALLE JUAN DE LA HOZ": "Verde"
+    },
+    {
+        "CALLE JULIO CAMBA": "Azul"
+    },
+    {
+        "CALLE JULIO CAMBA": "Verde"
+    },
+    {
+        "CALLE LA POVEDA": "Verde"
+    },
+    {
+        "CALLE LONDRES": "Verde"
+    },
+    {
+        "CALLE LUIS ADARO": "Verde"
+    },
+    {
+        "CALLE LUIS CALVO": "Verde"
+    },
+    {
+        "CALLE LUIS DIAZ COBE�A": "Verde"
+    },
+    {
+        "CALLE MARIA TERESA": "Verde"
+    },
+    {
+        "CALLE MARQUES DE AHUMADA": "Verde"
+    },
+    {
+        "CALLE MARQUES DE MONTEAGUDO": "Verde"
+    },
+    {
+        "CALLE MARTINEZ IZQUIERDO": "Verde"
+    },
+    {
+        "CALLE MARTINEZ IZQUIERDO": "Azul"
+    },
+    {
+        "CALLE MEJICO": "Verde"
+    },
+    {
+        "CALLE NUESTRA SE�ORA DE GUADALUPE": "Verde"
+    },
+    {
+        "CALLE OLTRA": "Verde"
+    },
+    {
+        "CALLE ORCASITAS": "Verde"
+    },
+    {
+        "CALLE OTERO": "Verde"
+    },
+    {
+        "CALLE PARRAL": "Verde"
+    },
+    {
+        "AVENIDA PAZ": "Azul"
+    },
+    {
+        "AVENIDA PAZ": "Verde"
+    },
+    {
+        "CALLE PILAR DE ZARAGOZA": "Verde"
+    },
+    {
+        "CALLE PINTOR MORENO CARBONERO": "Verde"
+    },
+    {
+        "CALLE RAFAELA BONILLA": "Verde"
+    },
+    {
+        "CALLE ROBERTO DOMINGO": "Verde"
+    },
+    {
+        "CALLE ROBERTO DOMINGO": "Azul"
+    },
+    {
+        "CALLE ROMA": "Verde"
+    },
+    {
+        "CALLE RUIZ OCA�A": "Verde"
+    },
+    {
+        "CALLE RUIZ PERELLO": "Verde"
+    },
+    {
+        "CALLE SALVADOR GRANES": "Verde"
+    },
+    {
+        "AVENIDA TOREROS": "Azul"
+    },
+    {
+        "AVENIDA TOREROS": "Verde"
+    },
+    {
+        "PLAZA VENECIA": "Verde"
+    },
+    {
+        "CALLE VILLAFRANCA": "Verde"
+    },
+    {
+        "CALLE DIEGO DE LEON": "Verde"
+    },
+    {
+        "CALLE DIEGO DE LEON": "Azul"
+    },
+    {
+        "CALLE GENERAL ORAA": "Verde"
+    },
+    {
+        "CALLE JOSE ORTEGA Y GASSET": "Azul"
+    },
+    {
+        "CALLE JOSE ORTEGA Y GASSET": "Verde"
+    },
+    {
+        "CALLE JUAN BRAVO": "Azul"
+    },
+    {
+        "CALLE JUAN BRAVO": "Verde"
+    },
+    {
+        "CALLE MALDONADO": "Verde"
+    },
+    {
+        "PLAZA MARQUES DE SALAMANCA": "Verde"
+    },
+    {
+        "PASAJE MONTESA": "Verde"
+    },
+    {
+        "CALLE PADILLA": "Verde"
+    },
+    {
+        "PASEO CASTELLANA": "Verde"
+    },
+    {
+        "CALLE GENERAL ORAA": "Azul"
+    },
+    {
+        "CALLE HERMANOS BECQUER": "Verde"
+    },
+    {
+        "CALLE LOPEZ DE HOYOS": "Verde"
+    },
+    {
+        "CALLE MARQUES DE VILLAMAGNA": "Azul"
+    },
+    {
+        "CALLE MARQUES DE VILLAMEJOR": "Verde"
+    },
+    {
+        "CALLE PINAR": "Verde"
+    },
+    {
+        "CALLE SALAS": "Verde"
+    },
+    {
+        "CALLE ALFONSO RODRIGUEZ SANTAMARIA": "Verde"
+    },
+    {
+        "CALLE ALVAREZ DE BAENA": "Azul"
+    },
+    {
+        "CALLE ALVAREZ DE BAENA": "Verde"
+    },
+    {
+        "CALLE ANTONIO PEREZ": "Verde"
+    },
+    {
+        "CALLE ANTONIO RODRIGUEZ VILLA": "Verde"
+    },
+    {
+        "CALLE ARGA": "Verde"
+    },
+    {
+        "CALLE ARMANDO PALACIO VALDES": "Verde"
+    },
+    {
+        "CALLE AVIADOR LINDBERGH": "Verde"
+    },
+    {
+        "CALLE BALBINA VALVERDE": "Verde"
+    },
+    {
+        "CALLE BELALCAZAR": "Verde"
+    },
+    {
+        "PASAJE BELALCAZAR": "Azul"
+    },
+    {
+        "CALLE BIDASOA": "Verde"
+    },
+    {
+        "CALLE CALERAS": "Verde"
+    },
+    {
+        "CALLE CALERAS": "Azul"
+    },
+    {
+        "CALLE CARBONERO Y SOL": "Verde"
+    },
+    {
+        "PLAZA CARLOS MARIA DE CASTRO": "Azul"
+    },
+    {
+        "CALLE CASTELLON DE LA PLANA": "Verde"
+    },
+    {
+        "CALLE CIDACOS": "Verde"
+    },
+    {
+        "CALLE CINCA": "Azul"
+    },
+    {
+        "CALLE CINCA": "Verde"
+    },
+    {
+        "AVENIDA CONCHA ESPINA": "Azul"
+    },
+    {
+        "AVENIDA CONCHA ESPINA": "Verde"
+    },
+    {
+        "CALLE DANIEL URRABIETA": "Verde"
+    },
+    {
+        "CALLE DARRO": "Verde"
+    },
+    {
+        "AVENIDA DOCTOR ARCE": "Azul"
+    },
+    {
+        "AVENIDA DOCTOR ARCE": "Verde"
+    },
+    {
+        "CALLE DUQUE DE SEVILLA": "Verde"
+    },
+    {
+        "CALLE DURAN": "Verde"
+    },
+    {
+        "CALLE EBRO": "Verde"
+    },
+    {
+        "CALLE EDISON": "Verde"
+    },
+    {
+        "CALLE EGA": "Verde"
+    },
+    {
+        "CALLE EMILIO CAMPION": "Verde"
+    },
+    {
+        "CALLE ERESMA": "Verde"
+    },
+    {
+        "CALLE ESTEVEZ": "Verde"
+    },
+    {
+        "CALLE FELIPE CAMPOS": "Verde"
+    },
+    {
+        "CALLE FELIPE PEREZ Y GONZALEZ": "Verde"
+    },
+    {
+        "CALLE FRANCISCO ALCANTARA": "Verde"
+    },
+    {
+        "CALLE FRANCISCO CAMPOS": "Verde"
+    },
+    {
+        "CALLE FRANCISCO DE ASIS MENDEZ CASARIEGO": "Verde"
+    },
+    {
+        "CALLE FRANCISCO SILVELA": "Verde"
+    },
+    {
+        "CALLE FRANCO": "Verde"
+    },
+    {
+        "CALLE FRAY JUAN GIL": "Verde"
+    },
+    {
+        "CALLE GABRIEL LOBO": "Verde"
+    },
+    {
+        "CALLE GABRIEL LOBO": "Azul"
+    },
+    {
+        "CALLE GALLARZA": "Verde"
+    },
+    {
+        "CALLE GENIL": "Verde"
+    },
+    {
+        "CALLE GOMEZ CANO": "Verde"
+    },
+    {
+        "CALLE GOMEZ ORTEGA": "Verde"
+    },
+    {
+        "CALLE GRIJALBA": "Verde"
+    },
+    {
+        "CALLE GUADALQUIVIR": "Azul"
+    },
+    {
+        "CALLE GUADALQUIVIR": "Verde"
+    },
+    {
+        "CALLE GUADIANA": "Verde"
+    },
+    {
+        "CALLE GUTIERREZ SOLANA": "Verde"
+    },
+    {
+        "CALLE HELECHO": "Azul"
+    },
+    {
+        "CALLE HELECHO": "Verde"
+    },
+    {
+        "CALLE HERMANOS PINZON": "Verde"
+    },
+    {
+        "CALLE HERMENEGILDA MARTINEZ": "Verde"
+    },
+    {
+        "CALLE IRATI": "Verde"
+    },
+    {
+        "CALLE JARAMA": "Verde"
+    },
+    {
+        "CALLE JOAQUIN COSTA": "Verde"
+    },
+    {
+        "CALLE JOAQUIN COSTA": "Azul"
+    },
+    {
+        "CALLE JOAQUIN MONTES JOVELLAR": "Verde"
+    },
+    {
+        "CALLE JORGE MANRIQUE": "Verde"
+    },
+    {
+        "CALLE JORGE MANRIQUE": "Azul"
+    },
+    {
+        "PLAZA JOS� CASTILLEJO": "Verde"
+    },
+    {
+        "CALLE JOSE GUTIERREZ ABASCAL": "Azul"
+    },
+    {
+        "CALLE JOSE GUTIERREZ ABASCAL": "Verde"
+    },
+    {
+        "CALLE JUAN DE LA CIERVA": "Verde"
+    },
+    {
+        "PASEO LA HABANA": "Verde"
+    },
+    {
+        "PASEO LA HABANA": "Azul"
+    },
+    {
+        "CALLE LEIZARAN": "Verde"
+    },
+    {
+        "CALLE LEREZ": "Verde"
+    },
+    {
+        "CALLE LOPEZ DE HOYOS": "Azul"
+    },
+    {
+        "GLORIETA LOPEZ DE HOYOS": "Verde"
+    },
+    {
+        "CALLE LORIGA": "Verde"
+    },
+    {
+        "CALLE LUIS MURIEL": "Verde"
+    },
+    {
+        "CALLE MADRE CARMEN DEL NI�O JESUS": "Verde"
+    },
+    {
+        "CALLE MAESTRO RIPOLL": "Verde"
+    },
+    {
+        "CALLE MAESTRO RIPOLL": "Azul"
+    },
+    {
+        "CALLE MARCELIANO SANTA MARIA": "Verde"
+    },
+    {
+        "CALLE MARCELIANO SANTA MARIA": "Azul"
+    },
+    {
+        "CALLE MARIA FRANCISCA": "Verde"
+    },
+    {
+        "PLAZA MARIA GUERRERO": "Verde"
+    },
+    {
+        "CALLE MARQUES DE VALDECILLA": "Verde"
+    },
+    {
+        "CALLE MI�O": "Verde"
+    },
+    {
+        "CALLE NERVION": "Verde"
+    },
+    {
+        "CALLE NIELFA": "Verde"
+    },
+    {
+        "CALLE OQUENDO": "Verde"
+    },
+    {
+        "CALLE ORIA": "Verde"
+    },
+    {
+        "CALLE PABLO ARANDA": "Verde"
+    },
+    {
+        "CALLE PEDRO DE VALDIVIA": "Verde"
+    },
+    {
+        "CALLE PEDRO DE VALDIVIA": "Azul"
+    },
+    {
+        "CALLE PISUERGA": "Verde"
+    },
+    {
+        "PLAZA POETA MANUEL DEL PALACIO": "Verde"
+    },
+    {
+        "CALLE PRINCIPE DE VERGARA": "Verde"
+    },
+    {
+        "CALLE PRINCIPE DE VERGARA": "Azul"
+    },
+    {
+        "CALLE PUENTE DEL DUERO": "Verde"
+    },
+    {
+        "PLAZA QUITO": "Verde"
+    },
+    {
+        "CALLE RECAREDO": "Verde"
+    },
+    {
+        "PLAZA REPUBLICA ARGENTINA": "Azul"
+    },
+    {
+        "PLAZA RODRIGO URIA": "Azul"
+    },
+    {
+        "CALLE RODRIGUEZ MARIN": "Azul"
+    },
+    {
+        "CALLE RODRIGUEZ MARIN": "Verde"
+    },
+    {
+        "CALLE RONCAL": "Verde"
+    },
+    {
+        "CALLE SAN JUAN DE LA SALLE": "Verde"
+    },
+    {
+        "CALLE SAN JULIO": "Verde"
+    },
+    {
+        "CALLE SANTIAGO ARTIGAS": "Verde"
+    },
+    {
+        "CALLE SANTIAGO BERNABEU": "Verde"
+    },
+    {
+        "CALLE SANTO DOMINGO DE SILOS": "Verde"
+    },
+    {
+        "CALLE SANTORCAZ": "Verde"
+    },
+    {
+        "CALLE SEGRE": "Verde"
+    },
+    {
+        "CALLE SERRANO": "Azul"
+    },
+    {
+        "CALLE SERRANO": "Verde"
+    },
+    {
+        "CALLE SIL": "Verde"
+    },
+    {
+        "CALLE TAJO": "Verde"
+    },
+    {
+        "CALLE TAMBRE": "Verde"
+    },
+    {
+        "CALLE TORMES": "Verde"
+    },
+    {
+        "CALLE TURIA": "Verde"
+    },
+    {
+        "CALLE UROLA": "Verde"
+    },
+    {
+        "CALLE URUMEA": "Verde"
+    },
+    {
+        "CALLE VITRUVIO": "Verde"
+    },
+    {
+        "CALLE VITRUVIO": "Azul"
+    },
+    {
+        "AUTOVIA A-2": "Verde"
+    },
+    {
+        "CALLE ALUSTANTE": "Verde"
+    },
+    {
+        "CALLE ANASTASIO AROCA": "Verde"
+    },
+    {
+        "CALLE ANGEL HERNANDEZ": "Verde"
+    },
+    {
+        "CALLE ANTONIO GUZMAN": "Verde"
+    },
+    {
+        "CALLE ANTONIO SALCES": "Verde"
+    },
+    {
+        "CALLE ANTONIO ZAPATA": "Verde"
+    },
+    {
+        "CALLE ANZUOLA": "Verde"
+    },
+    {
+        "CALLE BAEZA": "Verde"
+    },
+    {
+        "CALLE CANILLAS": "Verde"
+    },
+    {
+        "CALLE CANILLAS": "Azul"
+    },
+    {
+        "CALLE CARDENAL SILICEO": "Verde"
+    },
+    {
+        "CALLE CARLOS BALENCHANA": "Verde"
+    },
+    {
+        "CALLE CLARA DEL REY": "Verde"
+    },
+    {
+        "CALLE CLARA DEL REY": "Azul"
+    },
+    {
+        "CALLE CONSTANCIA": "Verde"
+    },
+    {
+        "CALLE CORAZON DE MARIA": "Verde"
+    },
+    {
+        "CALLE CORAZON DE MARIA": "Azul"
+    },
+    {
+        "CALLE DAGANZO": "Verde"
+    },
+    {
+        "CALLE DIAZ ZORITA": "Verde"
+    },
+    {
+        "PASAJE DOLORES": "Verde"
+    },
+    {
+        "PASAJE DO�A CARLOTA": "Verde"
+    },
+    {
+        "CALLE EUGENIO SALAZAR": "Verde"
+    },
+    {
+        "CALLE FRANCISCO GIRALTE": "Verde"
+    },
+    {
+        "CALLE FRANCISCO VIVANCOS": "Verde"
+    },
+    {
+        "CALLE GENERAL ZABALA": "Verde"
+    },
+    {
+        "CALLE GUSTAVO FERNANDEZ BALBUENA": "Verde"
+    },
+    {
+        "CALLE HORCAJUELO": "Verde"
+    },
+    {
+        "CALLE HUELVA": "Verde"
+    },
+    {
+        "CALLE JUAN BAUTISTA DE TOLEDO": "Verde"
+    },
+    {
+        "CALLE JULIO LOPEZ": "Verde"
+    },
+    {
+        "CALLE LUIS CABRERA": "Verde"
+    },
+    {
+        "CALLE LUIS DE SALAZAR": "Verde"
+    },
+    {
+        "PASAJE MANGIRON": "Verde"
+    },
+    {
+        "CALLE MARTIN MACHIO": "Verde"
+    },
+    {
+        "CALLE MATAELPINO": "Azul"
+    },
+    {
+        "CALLE MATAELPINO": "Verde"
+    },
+    {
+        "CALLE MAURO": "Verde"
+    },
+    {
+        "CALLE PADRE CLARET": "Verde"
+    },
+    {
+        "CALLE PADRE CLARET": "Azul"
+    },
+    {
+        "CALLE PADRE INDALECIO HERNANDEZ": "Azul"
+    },
+    {
+        "CALLE PADRE INDALECIO HERNANDEZ": "Verde"
+    },
+    {
+        "CALLE PADRE JESUS ORDO�EZ": "Verde"
+    },
+    {
+        "CALLE PADRE XIFRE": "Azul"
+    },
+    {
+        "CALLE PADRE XIFRE": "Verde"
+    },
+    {
+        "CALLE PINILLA DEL VALLE": "Verde"
+    },
+    {
+        "CALLE POETA CLAUDIO RODRIGUEZ": "Verde"
+    },
+    {
+        "CALLE PRADENA DEL RINCON": "Verde"
+    },
+    {
+        "PASAJE PRADILLO": "Verde"
+    },
+    {
+        "CALLE PUENTEAREAS": "Verde"
+    },
+    {
+        "CALLE QUINTILIANO": "Verde"
+    },
+    {
+        "CALLE RAMOS CARRION": "Verde"
+    },
+    {
+        "CALLE ROBREGORDO": "Verde"
+    },
+    {
+        "CALLE ROS DE OLANO": "Verde"
+    },
+    {
+        "CALLE SAN FERNANDO DEL JARAMA": "Verde"
+    },
+    {
+        "CALLE SAN NAZARIO": "Verde"
+    },
+    {
+        "CALLE SAN NAZARIO": "Azul"
+    },
+    {
+        "PASAJE SAN PEDRO": "Verde"
+    },
+    {
+        "CALLE SANCHEZ BALDERAS": "Verde"
+    },
+    {
+        "CALLE SANTA HORTENSIA": "Azul"
+    },
+    {
+        "CALLE SANTA HORTENSIA": "Verde"
+    },
+    {
+        "CALLE SANTA MARIA DE LA ALAMEDA": "Verde"
+    },
+    {
+        "CALLE SANTA RITA": "Verde"
+    },
+    {
+        "PASAJE VALVERDE DE ALCALA": "Verde"
+    },
+    {
+        "CALLE ZABALETA": "Verde"
+    },
+    {
+        "CALLE ABANTOS": "Verde"
+    },
+    {
+        "CALLE AGUSTIN DE ROJAS": "Verde"
+    },
+    {
+        "AVENIDA ALFONSO XIII": "Verde"
+    },
+    {
+        "PLAZA ANDRES SEGOVIA": "Azul"
+    },
+    {
+        "CALLE ARAGON": "Verde"
+    },
+    {
+        "CALLE ATALAYA": "Verde"
+    },
+    {
+        "CALLE BENIGNO SOTO": "Verde"
+    },
+    {
+        "CALLE CAMPANILLAS": "Verde"
+    },
+    {
+        "CALLE CARLOS PEREYRA": "Verde"
+    },
+    {
+        "CALLE CASTREJON": "Verde"
+    },
+    {
+        "CALLE CHARCA VERDE": "Verde"
+    },
+    {
+        "PLAZA CHARCA VERDE": "Verde"
+    },
+    {
+        "CALLE CLAVILE�O": "Verde"
+    },
+    {
+        "PASAJE CLAVILE�O": "Verde"
+    },
+    {
+        "CALLE CONDESA DE SANTAMARCA": "Verde"
+    },
+    {
+        "CALLE COTOS": "Verde"
+    },
+    {
+        "CALLE DOCTOR MARCO CORERA": "Verde"
+    },
+    {
+        "CALLE EMILIO MARIO": "Verde"
+    },
+    {
+        "CALLE FERNANDEZ DE OVIEDO": "Verde"
+    },
+    {
+        "CALLE GABRIEL Y GALAN": "Verde"
+    },
+    {
+        "CALLE GARCIA LUNA": "Verde"
+    },
+    {
+        "CALLE GUERRERO Y MENDOZA": "Verde"
+    },
+    {
+        "CALLE GUSTAVO FERNANDEZ BALBUENA": "Azul"
+    },
+    {
+        "CALLE JAVIER FERRERO": "Azul"
+    },
+    {
+        "CALLE JAVIER FERRERO": "Verde"
+    },
+    {
+        "PLAZA JOAQUIN RODRIGO": "Verde"
+    },
+    {
+        "CALLE JOSEP PLA": "Verde"
+    },
+    {
+        "PLAZA JUSTICIA": "Verde"
+    },
+    {
+        "CALLE LA PEDRIZA": "Verde"
+    },
+    {
+        "CALLE LUIS LARRAINZA": "Verde"
+    },
+    {
+        "CALLE LUIS VIVES": "Verde"
+    },
+    {
+        "CALLE MALCAMPO": "Azul"
+    },
+    {
+        "CALLE MALCAMPO": "Verde"
+    },
+    {
+        "CALLE MANTUANO": "Verde"
+    },
+    {
+        "CALLE MARCENADO": "Azul"
+    },
+    {
+        "CALLE MARCENADO": "Verde"
+    },
+    {
+        "CALLE MARQUES DE SANTILLANA": "Verde"
+    },
+    {
+        "CALLE MARTIN MARTINEZ": "Verde"
+    },
+    {
+        "CALLE MATILDE DIEZ": "Verde"
+    },
+    {
+        "CALLE MOSTOLES": "Verde"
+    },
+    {
+        "CALLE NAVALAFUENTE": "Verde"
+    },
+    {
+        "CALLE NIEREMBERG": "Verde"
+    },
+    {
+        "CALLE PANTOJA": "Verde"
+    },
+    {
+        "CALLE PANTOJA": "Azul"
+    },
+    {
+        "CALLE PECHUAN": "Verde"
+    },
+    {
+        "CALLE PE�OTA": "Verde"
+    },
+    {
+        "CALLE PEREZ AYUSO": "Verde"
+    },
+    {
+        "CALLE PEREZ HERRERA": "Verde"
+    },
+    {
+        "CALLE PRADILLO": "Verde"
+    },
+    {
+        "CALLE PRADILLO": "Azul"
+    },
+    {
+        "AVENIDA RAMON Y CAJAL": "Verde"
+    },
+    {
+        "AVENIDA RAMON Y CAJAL": "Azul"
+    },
+    {
+        "CALLE REFUGIO": "Verde"
+    },
+    {
+        "CALLE RISCO DEL PAJARO": "Verde"
+    },
+    {
+        "CALLE SAN ERNESTO": "Verde"
+    },
+    {
+        "CALLE SANCHEZ PACHECO": "Verde"
+    },
+    {
+        "CALLE SANCHEZ PACHECO": "Azul"
+    },
+    {
+        "CALLE SATURNINO CALLEJA": "Verde"
+    },
+    {
+        "PLAZA SOMORROSTRO": "Verde"
+    },
+    {
+        "CALLE SUERO DE QUI�ONES": "Verde"
+    },
+    {
+        "CALLE VINAROZ": "Verde"
+    },
+    {
+        "CALLE VINAROZ": "Azul"
+    },
+    {
+        "CALLE ACEBO": "Verde"
+    },
+    {
+        "AVENIDA ALBERTO ALCOCER": "Azul"
+    },
+    {
+        "AVENIDA ALFONSO XIII": "Azul"
+    },
+    {
+        "AVENIDA ALHELIES": "Verde"
+    },
+    {
+        "CALLE ANGEL DE DIEGO ROLDAN": "Verde"
+    },
+    {
+        "CALLE ARALIA": "Verde"
+    },
+    {
+        "AVENIDA ASTER": "Verde"
+    },
+    {
+        "AVENIDA ASTER": "Azul"
+    },
+    {
+        "CALLE BELE�O": "Verde"
+    },
+    {
+        "CALLE BOLIVIA": "Verde"
+    },
+    {
+        "CALLE CALAS": "Verde"
+    },
+    {
+        "CALLE CELINDAS": "Verde"
+    },
+    {
+        "CALLE CEREDA": "Verde"
+    },
+    {
+        "PASEO CEREZOS": "Verde"
+    },
+    {
+        "PASEO CEREZOS": "Azul"
+    },
+    {
+        "CALLE CHILE": "Verde"
+    },
+    {
+        "CALLE COCHABAMBA": "Verde"
+    },
+    {
+        "CALLE COLOMBIA": "Verde"
+    },
+    {
+        "CALLE COLOMBIA": "Azul"
+    },
+    {
+        "CALLE CONDES DEL VAL": "Verde"
+    },
+    {
+        "CALLE COSTA RICA": "Verde"
+    },
+    {
+        "CALLE CUARTA": "Verde"
+    },
+    {
+        "CALLE DECIMA": "Verde"
+    },
+    {
+        "CALLE DOCTOR FLEMING": "Verde"
+    },
+    {
+        "CALLE DOCTOR FLEMING": "Azul"
+    },
+    {
+        "CALLE ENDRINAS": "Verde"
+    },
+    {
+        "CALLE EUCALIPTO": "Verde"
+    },
+    {
+        "CALLE EUCALIPTO": "Azul"
+    },
+    {
+        "CALLE FEDERICO GARCIA SANCHIZ": "Verde"
+    },
+    {
+        "CALLE FERNAN NU�EZ": "Verde"
+    },
+    {
+        "CALLE FUENTE DEL SAZ": "Verde"
+    },
+    {
+        "CALLE HERREROS DE TEJADA": "Verde"
+    },
+    {
+        "CALLE HERREROS DE TEJADA": "Azul"
+    },
+    {
+        "CALLE INFANTA MARIA TERESA": "Verde"
+    },
+    {
+        "CALLE INFANTA MARIA TERESA": "Azul"
+    },
+    {
+        "PASEO JACINTOS": "Verde"
+    },
+    {
+        "CALLE JILOCA": "Verde"
+    },
+    {
+        "CALLE JOSE LAZARO GALDIANO": "Verde"
+    },
+    {
+        "PLAZA JOSE MARIA SOLER": "Azul"
+    },
+    {
+        "CALLE JUAN RAMON JIMENEZ": "Verde"
+    },
+    {
+        "AVENIDA LEVANTE": "Verde"
+    },
+    {
+        "CALLE LIGULA": "Verde"
+    },
+    {
+        "CALLE LIRIOS": "Verde"
+    },
+    {
+        "CALLE MANUEL DE FALLA": "Verde"
+    },
+    {
+        "CALLE NARCISOS": "Verde"
+    },
+    {
+        "CALLE NICARAGUA": "Verde"
+    },
+    {
+        "CALLE NOVENA": "Verde"
+    },
+    {
+        "CALLE OCTAVA": "Verde"
+    },
+    {
+        "CALLE ORURO": "Azul"
+    },
+    {
+        "CALLE ORURO": "Verde"
+    },
+    {
+        "CALLE PADRE DAMIAN": "Verde"
+    },
+    {
+        "CALLE PADRE DAMIAN": "Azul"
+    },
+    {
+        "CALLE PANAMA": "Verde"
+    },
+    {
+        "CALLE PARDO BAZAN": "Verde"
+    },
+    {
+        "CALLE PINTOR RIBERA": "Verde"
+    },
+    {
+        "CALLE POTOSI": "Verde"
+    },
+    {
+        "CALLE POTOSI": "Azul"
+    },
+    {
+        "CALLE PRIMERA": "Verde"
+    },
+    {
+        "CALLE PROFESOR WAKSMAN": "Verde"
+    },
+    {
+        "CALLE PUERTO RICO": "Verde"
+    },
+    {
+        "CALLE PUERTO RICO": "Azul"
+    },
+    {
+        "CALLE RAFAEL SALGADO": "Verde"
+    },
+    {
+        "CALLE RAMON DE SANTILLAN": "Verde"
+    },
+    {
+        "PLAZA REPUBLICA DEL ECUADOR": "Verde"
+    },
+    {
+        "PLAZA REPUBLICA DEL ECUADOR": "Azul"
+    },
+    {
+        "CALLE ROMERO GIRON": "Verde"
+    },
+    {
+        "PLAZA SAGRADOS CORAZONES": "Azul"
+    },
+    {
+        "CALLE SANTOLINAS": "Verde"
+    },
+    {
+        "CALLE SAUCE": "Verde"
+    },
+    {
+        "CALLE SEXTA": "Verde"
+    },
+    {
+        "CALLE TALAVERA": "Verde"
+    },
+    {
+        "CALLE TERCERA": "Verde"
+    },
+    {
+        "PLAZA TORRELODONES": "Verde"
+    },
+    {
+        "CALLE TRANSVERSAL": "Verde"
+    },
+    {
+        "CALLE TRUEBA Y FERNANDEZ": "Verde"
+    },
+    {
+        "CALLE UNDECIMA": "Verde"
+    },
+    {
+        "CALLE URUGUAY": "Verde"
+    },
+    {
+        "PLAZA VALPARAISO": "Verde"
+    },
+    {
+        "CALLE VERACRUZ": "Verde"
+    },
+    {
+        "CALLE VICTOR ANDRES BELAUNDE": "Azul"
+    },
+    {
+        "CALLE VICTOR ANDRES BELAUNDE": "Verde"
+    },
+    {
+        "CALLE VICTOR DE LA SERNA": "Verde"
+    },
+    {
+        "CALLE VICTOR DE LA SERNA": "Azul"
+    },
+    {
+        "CALLE ABEDUL": "Verde"
+    },
+    {
+        "AVENIDA ALBERTO ALCOCER": "Verde"
+    },
+    {
+        "CALLE ALFONSO VIII": "Verde"
+    },
+    {
+        "CALLE APOLONIO MORALES": "Azul"
+    },
+    {
+        "CALLE APOLONIO MORALES": "Verde"
+    },
+    {
+        "CALLE ARENAL DE MAUDES": "Verde"
+    },
+    {
+        "CALLE ARQUITECTO GAUDI": "Verde"
+    },
+    {
+        "CALLE ARQUITECTO GAUDI": "Azul"
+    },
+    {
+        "CALLE AZULINAS": "Verde"
+    },
+    {
+        "CALLE BENDICION DE CAMPOS": "Verde"
+    },
+    {
+        "CALLE BERMUDEZ CA�ETE": "Verde"
+    },
+    {
+        "CALLE BONETERO": "Verde"
+    },
+    {
+        "CALLE BOSQUE": "Verde"
+    },
+    {
+        "CALLE CAIDOS DE LA DIVISION AZUL": "Azul"
+    },
+    {
+        "CALLE CAIDOS DE LA DIVISION AZUL": "Verde"
+    },
+    {
+        "CALLE CARLOS CAAMA�O": "Verde"
+    },
+    {
+        "CALLE CARLOS MAURRAS": "Azul"
+    },
+    {
+        "CALLE CARLOS MAURRAS": "Verde"
+    },
+    {
+        "CALLE CIPRESES": "Verde"
+    },
+    {
+        "CALLE COMANDANTE AZCARRAGA": "Azul"
+    },
+    {
+        "AVENIDA COMANDANTE FRANCO": "Verde"
+    },
+    {
+        "CALLE CRUCERO 25 DE MAYO": "Verde"
+    },
+    {
+        "CALLE DOMINGO FERNANDEZ": "Verde"
+    },
+    {
+        "CALLE DON JUSTO": "Verde"
+    },
+    {
+        "CALLE DONOSO MONTESINOS": "Verde"
+    },
+    {
+        "CALLE DRACENA": "Verde"
+    },
+    {
+        "CALLE ENCINAS": "Verde"
+    },
+    {
+        "TRAVESIA ENCINAS": "Verde"
+    },
+    {
+        "CALLE ENRIQUE JARDIEL PONCELA": "Verde"
+    },
+    {
+        "CALLE EUROPA": "Verde"
+    },
+    {
+        "CALLE FEDERICO SALMON": "Azul"
+    },
+    {
+        "CALLE FEDERICO SALMON": "Verde"
+    },
+    {
+        "CALLE FELIX BOIX": "Verde"
+    },
+    {
+        "CALLE FELIX BOIX": "Azul"
+    },
+    {
+        "CALLE FILIPINAS": "Verde"
+    },
+    {
+        "CALLE FRANCISCO GOYA": "Verde"
+    },
+    {
+        "CALLE FRANCISCO SUAREZ": "Verde"
+    },
+    {
+        "CALLE FRANCISCO SUAREZ": "Azul"
+    },
+    {
+        "CALLE FRAY BERNARDINO SAHAGUN": "Verde"
+    },
+    {
+        "PLAZA GARCIA IBARROLA": "Verde"
+    },
+    {
+        "CALLE GENERAL GALLEGOS": "Verde"
+    },
+    {
+        "CALLE GENERAL LOPEZ POZAS": "Azul"
+    },
+    {
+        "CALLE GENERAL LOPEZ POZAS": "Verde"
+    },
+    {
+        "CALLE GUATEMALA": "Verde"
+    },
+    {
+        "CALLE HENRI DUNANT": "Azul"
+    },
+    {
+        "CALLE HENRI DUNANT": "Verde"
+    },
+    {
+        "CALLE HONDURAS": "Verde"
+    },
+    {
+        "CALLE ITALICA": "Verde"
+    },
+    {
+        "CALLE JEREZ": "Verde"
+    },
+    {
+        "CALLE JOAQUIN BAU": "Verde"
+    },
+    {
+        "CALLE JOSE RODRIGUEZ PINILLA": "Verde"
+    },
+    {
+        "CALLE JUAN HURTADO DE MENDOZA": "Verde"
+    },
+    {
+        "CALLE JUAN HURTADO DE MENDOZA": "Azul"
+    },
+    {
+        "CALLE JUAN RAMON JIMENEZ": "Azul"
+    },
+    {
+        "CALLE LILAS": "Verde"
+    },
+    {
+        "CALLE MACARENA": "Verde"
+    },
+    {
+        "CALLE MADRE DE DIOS": "Verde"
+    },
+    {
+        "PLAZA MADRE MOLAS": "Verde"
+    },
+    {
+        "CALLE MADRESELVA": "Verde"
+    },
+    {
+        "CALLE MAESTRO CHAPI": "Verde"
+    },
+    {
+        "CALLE MAESTRO LASALLE": "Verde"
+    },
+    {
+        "CALLE MANUEL BENEDITO": "Verde"
+    },
+    {
+        "CALLE MANUEL MONTILLA": "Verde"
+    },
+    {
+        "CALLE MARIA GUILHOU": "Verde"
+    },
+    {
+        "CALLE MATEO INURRIA": "Verde"
+    },
+    {
+        "CALLE MENENDEZ PIDAL": "Verde"
+    },
+    {
+        "CALLE MENENDEZ PIDAL": "Azul"
+    },
+    {
+        "CALLE NUESTRA SE�ORA DE LUJAN": "Azul"
+    },
+    {
+        "CALLE NUESTRA SE�ORA DE LUJAN": "Verde"
+    },
+    {
+        "CALLE PALMA DEL RIO": "Verde"
+    },
+    {
+        "CALLE PALMITO": "Verde"
+    },
+    {
+        "CALLE PARAGUAY": "Verde"
+    },
+    {
+        "CALLE PARAGUAY": "Azul"
+    },
+    {
+        "CALLE PEDRO MUGURUZA": "Verde"
+    },
+    {
+        "PLAZA PERU": "Azul"
+    },
+    {
+        "AVENIDA PIO XII": "Azul"
+    },
+    {
+        "AVENIDA PIO XII": "Verde"
+    },
+    {
+        "PLAZA PRESIDENTE CARDENAS": "Azul"
+    },
+    {
+        "PLAZA PRESIDENTE CARDENAS": "Verde"
+    },
+    {
+        "CALLE PRIETO URE�A": "Verde"
+    },
+    {
+        "PLAZA REPUBLICA DOMINICANA": "Verde"
+    },
+    {
+        "CALLE RICARDO CALVO": "Verde"
+    },
+    {
+        "CALLE ROSA JARDON": "Verde"
+    },
+    {
+        "CALLE SAN TELMO": "Verde"
+    },
+    {
+        "CALLE SANTA MARIA MAGDALENA": "Verde"
+    },
+    {
+        "CALLE SANTA MARIA MAGDALENA": "Azul"
+    },
+    {
+        "TRAVESIA SANTA MARIA MAGDALENA": "Verde"
+    },
+    {
+        "CALLE TAHONA": "Verde"
+    },
+    {
+        "CALLE TORPEDERO TUCUMAN": "Verde"
+    },
+    {
+        "CALLE TORPEDERO TUCUMAN": "Azul"
+    },
+    {
+        "CALLE TORREGALINDO": "Azul"
+    },
+    {
+        "CALLE TORRELARA": "Azul"
+    },
+    {
+        "CALLE TRIANA": "Verde"
+    },
+    {
+        "CALLE TRIANA": "Azul"
+    },
+    {
+        "CALLE AGUSTIN DE FOXA": "Verde"
+    },
+    {
+        "CALLE AGUSTIN DE FOXA": "Azul"
+    },
+    {
+        "CALLE ALATERNO": "Verde"
+    },
+    {
+        "CALLE ALBERTO LEON PERALTA": "Verde"
+    },
+    {
+        "PLAZA ANDRES MANJON": "Verde"
+    },
+    {
+        "CALLE BAMBU": "Verde"
+    },
+    {
+        "CALLE BAMBU": "Azul"
+    },
+    {
+        "CALLE BUGANVILLA": "Verde"
+    },
+    {
+        "AVENIDA BURGOS": "Azul"
+    },
+    {
+        "AVENIDA BURGOS": "Verde"
+    },
+    {
+        "CALLE CARDENAL MARCELO SPINOLA": "Azul"
+    },
+    {
+        "CALLE CARDENAL MARCELO SPINOLA": "Verde"
+    },
+    {
+        "CALLE CARMEN SANCHEZ CARRASCOSA": "Verde"
+    },
+    {
+        "PLAZA CIRCULAR": "Verde"
+    },
+    {
+        "CALLE CONDE DE TORRALBA": "Verde"
+    },
+    {
+        "CALLE CONDE DE TORRALBA": "Azul"
+    },
+    {
+        "CALLE CONSUEGRA": "Verde"
+    },
+    {
+        "CALLE DANIEL VAZQUEZ DIAZ": "Verde"
+    },
+    {
+        "CALLE DOCTOR HUERTAS": "Verde"
+    },
+    {
+        "CALLE DOLORES SANCHEZ CARRASCOSA": "Verde"
+    },
+    {
+        "PLAZA DUQUE DE PASTRANA": "Verde"
+    },
+    {
+        "CALLE ENRIQUE LARRETA": "Verde"
+    },
+    {
+        "CALLE ENRIQUE LARRETA": "Azul"
+    },
+    {
+        "CALLE ESTEBAN TERRADAS": "Verde"
+    },
+    {
+        "CALLE HIEDRA": "Azul"
+    },
+    {
+        "CALLE HIEDRA": "Verde"
+    },
+    {
+        "PLAZA INFANCIA": "Verde"
+    },
+    {
+        "CALLE JOSE BARDASANO BAOS": "Azul"
+    },
+    {
+        "CALLE JOSE BARDASANO BAOS": "Verde"
+    },
+    {
+        "CALLE JOSE VASCONCELOS": "Verde"
+    },
+    {
+        "CALLE JOSE VASCONCELOS": "Azul"
+    },
+    {
+        "CALLE LEVANTE": "Verde"
+    },
+    {
+        "CALLE MANUEL CALDEIRO": "Azul"
+    },
+    {
+        "CALLE MANUEL CALDEIRO": "Verde"
+    },
+    {
+        "CALLE MANUEL FERRERO": "Verde"
+    },
+    {
+        "CALLE MANUEL FERRERO": "Azul"
+    },
+    {
+        "CALLE MARQUES DE TORRELAGUNA": "Verde"
+    },
+    {
+        "CALLE MATEO INURRIA": "Azul"
+    },
+    {
+        "CALLE MAURICIO LEGENDRE": "Azul"
+    },
+    {
+        "CALLE MAURICIO LEGENDRE": "Verde"
+    },
+    {
+        "CALLE MAURICIO RAVEL": "Verde"
+    },
+    {
+        "CALLE MEMBRILLO": "Verde"
+    },
+    {
+        "CALLE NISPERO": "Verde"
+    },
+    {
+        "CALLE NUESTRA SE�ORA DE LAS ANGUSTIAS": "Verde"
+    },
+    {
+        "PASEO NUESTRA SE�ORA DEL RECUERDO": "Azul"
+    },
+    {
+        "CALLE NU�EZ MORGADO": "Verde"
+    },
+    {
+        "CALLE PABLO LUNA": "Verde"
+    },
+    {
+        "CALLE PADRE FRANCISCO PALAU Y QUER": "Verde"
+    },
+    {
+        "CALLE PADRE FRANCISCO PALAU Y QUER": "Azul"
+    },
+    {
+        "CALLE PASTORA IMPERIO": "Verde"
+    },
+    {
+        "CALLE PLATERIAS": "Verde"
+    },
+    {
+        "CALLE PONIENTE": "Verde"
+    },
+    {
+        "CALLE RAFAEL HERRERA": "Verde"
+    },
+    {
+        "AVENIDA RECUERDO": "Verde"
+    },
+    {
+        "CALLE RODRIGUEZ JAEN": "Verde"
+    },
+    {
+        "CALLE RODRIGUEZ JAEN": "Azul"
+    },
+    {
+        "CALLE SAN RAMON NONATO": "Verde"
+    },
+    {
+        "CALLE SANTA MAGDALENA SOFIA": "Verde"
+    },
+    {
+        "CALLE VIEJAS": "Verde"
+    },
+    {
+        "CALLE YUCA": "Verde"
+    },
+    {
+        "CALLE ABEL": "Verde"
+    },
+    {
+        "CALLE ADELA BALBOA": "Verde"
+    },
+    {
+        "CALLE ADRIAN PULIDO": "Verde"
+    },
+    {
+        "CALLE ADRIAN PULIDO": "Azul"
+    },
+    {
+        "CALLE ALEJANDRO RODRIGUEZ": "Verde"
+    },
+    {
+        "CALLE ALMANSA": "Verde"
+    },
+    {
+        "PUENTE AMANIEL": "Verde"
+    },
+    {
+        "CALLE ANTONIO GOMEZ GALIANA": "Verde"
+    },
+    {
+        "CALLE ARANJUEZ": "Verde"
+    },
+    {
+        "CALLE AVELINO MONTERO RIOS": "Verde"
+    },
+    {
+        "CALLE BEIRE": "Verde"
+    },
+    {
+        "CALLE CARLOS LATORRE": "Azul"
+    },
+    {
+        "CALLE CARLOS RUBIO": "Verde"
+    },
+    {
+        "CALLE CARNICER": "Verde"
+    },
+    {
+        "CALLE CAROLINAS": "Azul"
+    },
+    {
+        "CALLE CAROLINAS": "Verde"
+    },
+    {
+        "CALLE CASTILLA": "Azul"
+    },
+    {
+        "CALLE CASTILLA": "Verde"
+    },
+    {
+        "CALLE CASTILLEJOS": "Verde"
+    },
+    {
+        "CALLE CASTILLO PI�EIRO": "Azul"
+    },
+    {
+        "CALLE CASTILLO PI�EIRO": "Verde"
+    },
+    {
+        "AVENIDA DOCTOR FEDERICO RUBIO Y GALI": "Verde"
+    },
+    {
+        "CALLE DOCTOR SANTERO": "Verde"
+    },
+    {
+        "CALLE EDUARDO ADARO": "Verde"
+    },
+    {
+        "CALLE EL MOLAR": "Verde"
+    },
+    {
+        "CALLE ENRIQUE I": "Verde"
+    },
+    {
+        "CALLE FERNANDO OSSORIO": "Verde"
+    },
+    {
+        "CALLE FRANCISCO BALSEIRO": "Verde"
+    },
+    {
+        "CALLE FRANCISCO SALAS": "Verde"
+    },
+    {
+        "CALLE FRANCOS RODRIGUEZ": "Verde"
+    },
+    {
+        "CALLE GARELLANO": "Verde"
+    },
+    {
+        "CALLE GOIRI": "Verde"
+    },
+    {
+        "CALLE JERONIMA LLORENTE": "Verde"
+    },
+    {
+        "CALLE JERONIMA LLORENTE": "Azul"
+    },
+    {
+        "CALLE JOAQUIN ARJONA": "Verde"
+    },
+    {
+        "CALLE JUAN DE LA ENCINA": "Verde"
+    },
+    {
+        "CALLE JUAN PANTOJA": "Azul"
+    },
+    {
+        "CALLE JUAN PRADILLO": "Verde"
+    },
+    {
+        "CALLE LA RABIDA": "Verde"
+    },
+    {
+        "CALLE LE�EROS": "Verde"
+    },
+    {
+        "CALLE LORENZA CORREA": "Verde"
+    },
+    {
+        "CALLE MARIA IGNACIA": "Verde"
+    },
+    {
+        "CALLE MARIA PEDRAZA": "Verde"
+    },
+    {
+        "CALLE MARIANELA": "Verde"
+    },
+    {
+        "GLORIETA MIGUEL RUBIALES": "Verde"
+    },
+    {
+        "CALLE NAVARRA": "Azul"
+    },
+    {
+        "CALLE NAVARRA": "Verde"
+    },
+    {
+        "CALLE NUMANCIA": "Verde"
+    },
+    {
+        "CALLE NUMANCIA": "Azul"
+    },
+    {
+        "CALLE OLITE": "Verde"
+    },
+    {
+        "CALLE OUDRID": "Verde"
+    },
+    {
+        "AVENIDA PABLO IGLESIAS": "Verde"
+    },
+    {
+        "CALLE PAMPLONA": "Azul"
+    },
+    {
+        "CALLE PAMPLONA": "Verde"
+    },
+    {
+        "CALLE PARAVICINO": "Verde"
+    },
+    {
+        "CALLE PEDRO ROGEL": "Verde"
+    },
+    {
+        "CALLE RAFAEL HERRERO": "Verde"
+    },
+    {
+        "CALLE SAHAGUN": "Verde"
+    },
+    {
+        "CALLE SAN RAIMUNDO": "Verde"
+    },
+    {
+        "CALLE SAN ROGELIO": "Verde"
+    },
+    {
+        "CALLE SAN VALERIANO": "Verde"
+    },
+    {
+        "CALLE SANTA JULIANA": "Verde"
+    },
+    {
+        "CALLE TENERIFE": "Verde"
+    },
+    {
+        "CALLE TOPETE": "Verde"
+    },
+    {
+        "CALLE TUDELILLA": "Azul"
+    },
+    {
+        "CALLE WAD RAS": "Verde"
+    },
+    {
+        "CALLE ZAMORA": "Verde"
+    },
+    {
+        "CALLE ANASTASIO HERRERO": "Verde"
+    },
+    {
+        "CALLE AQUILINO DOMINGUEZ": "Verde"
+    },
+    {
+        "CALLE ARTISTAS": "Verde"
+    },
+    {
+        "CALLE ASUNCION CASTELL": "Verde"
+    },
+    {
+        "CALLE AVIADOR ZORITA": "Azul"
+    },
+    {
+        "CALLE AVIADOR ZORITA": "Verde"
+    },
+    {
+        "CALLE AVILA": "Verde"
+    },
+    {
+        "CALLE BASILICA": "Verde"
+    },
+    {
+        "AVENIDA BRASIL": "Verde"
+    },
+    {
+        "AVENIDA BRASIL": "Azul"
+    },
+    {
+        "CALLE BRUNO AYLLON": "Verde"
+    },
+    {
+        "PLAZA CARLOS TRIAS BERTRAN": "Azul"
+    },
+    {
+        "CALLE CICERON": "Verde"
+    },
+    {
+        "PLAZA CONDESA DE GAVIA": "Verde"
+    },
+    {
+        "CALLE CUENCA": "Verde"
+    },
+    {
+        "CALLE DON QUIJOTE": "Verde"
+    },
+    {
+        "CALLE DULCINEA": "Verde"
+    },
+    {
+        "CALLE DULCINEA": "Azul"
+    },
+    {
+        "CALLE EDGAR NEVILLE": "Verde"
+    },
+    {
+        "CALLE FORTUNATA Y JACINTA": "Verde"
+    },
+    {
+        "CALLE GENERAL CABRERA": "Verde"
+    },
+    {
+        "AVENIDA GENERAL PERON": "Azul"
+    },
+    {
+        "AVENIDA GENERAL PERON": "Verde"
+    },
+    {
+        "CALLE GENERAL RAMIREZ DE MADRID": "Verde"
+    },
+    {
+        "CALLE GUIPUZCOA": "Verde"
+    },
+    {
+        "CALLE HERNANI": "Verde"
+    },
+    {
+        "CALLE INFANTA MERCEDES": "Verde"
+    },
+    {
+        "CALLE INFANTA MERCEDES": "Azul"
+    },
+    {
+        "TRAVESIA INFANTA MERCEDES": "Verde"
+    },
+    {
+        "CALLE JAEN": "Verde"
+    },
+    {
+        "CALLE JOSE MARIA DE CASTRO": "Verde"
+    },
+    {
+        "CALLE JUAN DE OLIAS": "Verde"
+    },
+    {
+        "CALLE JULI�N BESTEIRO": "Verde"
+    },
+    {
+        "CALLE LA CORU�A": "Verde"
+    },
+    {
+        "CALLE LERIDA": "Verde"
+    },
+    {
+        "PLAZA MANOLETE": "Azul"
+    },
+    {
+        "CALLE MANUEL LUNA": "Verde"
+    },
+    {
+        "CALLE MARTIRES DE PARACUELLOS": "Verde"
+    },
+    {
+        "CALLE MERCEDES": "Verde"
+    },
+    {
+        "CALLE MONTEVIDEO": "Verde"
+    },
+    {
+        "CALLE ORDEN": "Verde"
+    },
+    {
+        "CALLE ORENSE": "Verde"
+    },
+    {
+        "CALLE ORENSE": "Azul"
+    },
+    {
+        "CALLE OVIEDO": "Verde"
+    },
+    {
+        "PLAZA PABLO RUIZ PICASSO": "Azul"
+    },
+    {
+        "CALLE PALENCIA": "Verde"
+    },
+    {
+        "CALLE PALENCIA": "Azul"
+    },
+    {
+        "CALLE PEDRO TEIXEIRA": "Verde"
+    },
+    {
+        "CALLE POETA JOAN MARAGALL": "Verde"
+    },
+    {
+        "CALLE POETA JOAN MARAGALL": "Azul"
+    },
+    {
+        "AVENIDA PRESIDENTE CARMONA": "Verde"
+    },
+    {
+        "CALLE REINA MERCEDES": "Azul"
+    },
+    {
+        "CALLE REINA MERCEDES": "Verde"
+    },
+    {
+        "CALLE SALAMANCA": "Verde"
+    },
+    {
+        "PLAZA SAN AMARO": "Verde"
+    },
+    {
+        "CALLE SAN ANTONIO": "Verde"
+    },
+    {
+        "CALLE SAN ENRIQUE": "Verde"
+    },
+    {
+        "CALLE SAN GERM�N": "Azul"
+    },
+    {
+        "CALLE TERESITA GONZALEZ QUEVEDO": "Azul"
+    },
+    {
+        "CALLE TERUEL": "Verde"
+    },
+    {
+        "CALLE TIZIANO": "Verde"
+    },
+    {
+        "CALLE ZARZALEJO": "Verde"
+    },
+    {
+        "CALLE ALONSO CASTRILLO": "Verde"
+    },
+    {
+        "CALLE AMALIA": "Verde"
+    },
+    {
+        "PLAZA ANGEL CARBAJO": "Verde"
+    },
+    {
+        "CALLE ANIBAL": "Verde"
+    },
+    {
+        "CALLE AZAHAR": "Verde"
+    },
+    {
+        "CALLE BUSTARVIEJO": "Verde"
+    },
+    {
+        "CALLE ESTEBANEZ CALDERON": "Verde"
+    },
+    {
+        "CALLE FRANCISCO GERVAS": "Azul"
+    },
+    {
+        "CALLE FRANCISCO GERVAS": "Verde"
+    },
+    {
+        "CALLE FRANCISCO MEDRANO": "Verde"
+    },
+    {
+        "CALLE GENERAL MARGALLO": "Verde"
+    },
+    {
+        "CALLE HERMANO GARATE": "Verde"
+    },
+    {
+        "CALLE HUESCA": "Verde"
+    },
+    {
+        "CALLE JOSE CASTAN TOBE�AS": "Azul"
+    },
+    {
+        "CALLE JOSE CASTAN TOBE�AS": "Verde"
+    },
+    {
+        "CALLE LAZAGA": "Verde"
+    },
+    {
+        "CALLE LIMONERO": "Verde"
+    },
+    {
+        "CALLE MARQUES DE CORTINA": "Verde"
+    },
+    {
+        "CALLE MARQUES DE LEIS": "Verde"
+    },
+    {
+        "CALLE O�ATE": "Verde"
+    },
+    {
+        "CALLE PEDRO VILLAR": "Verde"
+    },
+    {
+        "CALLE PENSAMIENTO": "Verde"
+    },
+    {
+        "CALLE PINTOR JUAN GRIS": "Verde"
+    },
+    {
+        "CALLE ROBLE": "Verde"
+    },
+    {
+        "CALLE ROSA DE SILVA": "Verde"
+    },
+    {
+        "CALLE ROSA DE SILVA": "Azul"
+    },
+    {
+        "CALLE ROSARIO PINO": "Verde"
+    },
+    {
+        "CALLE SAN FELIPE": "Verde"
+    },
+    {
+        "CALLE SAN GERM�N": "Verde"
+    },
+    {
+        "CALLE SOFORA": "Verde"
+    },
+    {
+        "CALLE SOR ANGELA DE LA CRUZ": "Verde"
+    },
+    {
+        "CALLE SOR ANGELA DE LA CRUZ": "Azul"
+    },
+    {
+        "CALLE TERESITA GONZALEZ QUEVEDO": "Verde"
+    },
+    {
+        "CALLE ULPIANA BENITO": "Verde"
+    },
+    {
+        "CALLE AGUILE�AS": "Verde"
+    },
+    {
+        "CALLE AGUILE�AS": "Azul"
+    },
+    {
+        "CALLE AILANTO": "Verde"
+    },
+    {
+        "CALLE ALBENDIEGO": "Verde"
+    },
+    {
+        "CALLE ALCOLEA": "Verde"
+    },
+    {
+        "CALLE ALEMANIA": "Verde"
+    },
+    {
+        "CALLE ALVAREZ": "Verde"
+    },
+    {
+        "CALLE ANTONIO": "Verde"
+    },
+    {
+        "AVENIDA ASTURIAS": "Verde"
+    },
+    {
+        "AVENIDA ASTURIAS": "Azul"
+    },
+    {
+        "CALLE BARACALDO": "Verde"
+    },
+    {
+        "CALLE BASCONES": "Verde"
+    },
+    {
+        "CALLE CA�AVERAL": "Verde"
+    },
+    {
+        "CALLE CARMEN MONTOYA": "Verde"
+    },
+    {
+        "CALLE CEDROS": "Verde"
+    },
+    {
+        "CALLE CONDE DEL SERRALLO": "Azul"
+    },
+    {
+        "CALLE CONDE DEL SERRALLO": "Verde"
+    },
+    {
+        "CALLE COSTA VERDE": "Verde"
+    },
+    {
+        "CALLE CUATRO AMIGOS": "Azul"
+    },
+    {
+        "CALLE DELFIN": "Verde"
+    },
+    {
+        "PASEO DIRECCION": "Verde"
+    },
+    {
+        "PLAZA DONOSO": "Verde"
+    },
+    {
+        "CALLE EMILIA": "Verde"
+    },
+    {
+        "PLAZA ESTE": "Verde"
+    },
+    {
+        "CALLE EUGENIO": "Verde"
+    },
+    {
+        "CALLE FRANCISCO CABO": "Verde"
+    },
+    {
+        "CALLE GENERAL PINTOS": "Verde"
+    },
+    {
+        "CALLE GERANIOS": "Verde"
+    },
+    {
+        "CALLE GONZALEZ SOLA": "Verde"
+    },
+    {
+        "CALLE HELIOTROPO": "Verde"
+    },
+    {
+        "CALLE HERMANOS DE ANDRES": "Verde"
+    },
+    {
+        "CALLE JOAQUIN DICENTA": "Verde"
+    },
+    {
+        "CALLE JOSE": "Verde"
+    },
+    {
+        "CALLE LUIS ESTEBAN": "Verde"
+    },
+    {
+        "CALLE MAGNOLIAS": "Verde"
+    },
+    {
+        "CALLE MAGNOLIAS": "Azul"
+    },
+    {
+        "CALLE MANUEL MARCHAMALO": "Verde"
+    },
+    {
+        "CALLE MARCELINA": "Verde"
+    },
+    {
+        "CALLE MARQUES DE ENCINARES": "Verde"
+    },
+    {
+        "CALLE MARTINEZ PAGE": "Verde"
+    },
+    {
+        "CALLE MARTIRES DE LA VENTILLA": "Verde"
+    },
+    {
+        "CALLE MARTIRES DE LA VENTILLA": "Azul"
+    },
+    {
+        "CALLE MATILDE LANDA": "Verde"
+    },
+    {
+        "CALLE MOLINA": "Verde"
+    },
+    {
+        "CALLE MONTOYA": "Verde"
+    },
+    {
+        "CALLE MONTOYA": "Azul"
+    },
+    {
+        "CALLE MORANDO": "Verde"
+    },
+    {
+        "CALLE NADOR": "Verde"
+    },
+    {
+        "CALLE NARDO": "Azul"
+    },
+    {
+        "CALLE NARDO": "Verde"
+    },
+    {
+        "TRAVESIA NARDO": "Verde"
+    },
+    {
+        "PLAZA NORTE": "Verde"
+    },
+    {
+        "PLAZA OESTE": "Verde"
+    },
+    {
+        "CALLE ORDO�EZ": "Verde"
+    },
+    {
+        "CALLE PADRE RUBIO": "Verde"
+    },
+    {
+        "CALLE PALMERA": "Verde"
+    },
+    {
+        "CALLE PINOS ALTA": "Verde"
+    },
+    {
+        "CALLE PINOS ALTA": "Azul"
+    },
+    {
+        "CALLE PINOS BAJA": "Verde"
+    },
+    {
+        "CALLE RAFAEL CEBALLOS": "Verde"
+    },
+    {
+        "CALLE ROSARIO ROMERO": "Verde"
+    },
+    {
+        "CALLE SAN AQUILINO": "Verde"
+    },
+    {
+        "CALLE SAN BENITO": "Verde"
+    },
+    {
+        "CALLE SAN LEOPOLDO": "Verde"
+    },
+    {
+        "CALLE SIMANCAS": "Verde"
+    },
+    {
+        "CALLE SIMANCAS": "Azul"
+    },
+    {
+        "CALLE SINESIO DELGADO": "Azul"
+    },
+    {
+        "CALLE SOROLLA": "Verde"
+    },
+    {
+        "CALLE VIA LIMITE": "Verde"
+    },
+    {
+        "CALLE VIA LIMITE": "Azul"
+    },
+    {
+        "CALLE VICENTE GACEO": "Verde"
+    },
+    {
+        "CALLE VINCA": "Verde"
+    },
+    {
+        "CALLE VI�A VIRGEN": "Verde"
+    },
+    {
+        "CALLE VI�A VIRGEN": "Azul"
+    },
+    {
+        "CALLE VIZCAINOS": "Verde"
+    },
+    {
+        "CALLE YEROS": "Verde"
+    },
+    {
+        "CALLE ABADESA": "Verde"
+    },
+    {
+        "CALLE AGAVE": "Verde"
+    },
+    {
+        "CALLE AGRACEJO": "Verde"
+    },
+    {
+        "CALLE ALBERDI": "Verde"
+    },
+    {
+        "CALLE ALFALFA": "Verde"
+    },
+    {
+        "CALLE ALIGUSTRE": "Verde"
+    },
+    {
+        "CALLE ALMORTAS": "Verde"
+    },
+    {
+        "CALLE ANA MARIA": "Verde"
+    },
+    {
+        "CALLE ANDREA PUECH": "Verde"
+    },
+    {
+        "CALLE ANGEL PUECH": "Verde"
+    },
+    {
+        "CALLE ANTONIO LANZUELA": "Verde"
+    },
+    {
+        "CALLE ARANDANO": "Verde"
+    },
+    {
+        "CALLE ARROYO": "Verde"
+    },
+    {
+        "CALLE AZUCENAS": "Verde"
+    },
+    {
+        "CALLE BARDALA": "Verde"
+    },
+    {
+        "CALLE BENJAMIN": "Verde"
+    },
+    {
+        "CALLE CACTUS": "Verde"
+    },
+    {
+        "CALLE CANTUESO": "Verde"
+    },
+    {
+        "CALLE CAPITAN BLANCO ARGIBAY": "Azul"
+    },
+    {
+        "CALLE CAPITAN BLANCO ARGIBAY": "Verde"
+    },
+    {
+        "CALLE CEFERINO RODRIGUEZ": "Verde"
+    },
+    {
+        "CALLE CEUTA": "Verde"
+    },
+    {
+        "CALLE CEUTA": "Azul"
+    },
+    {
+        "CALLE CLAVELINAS": "Verde"
+    },
+    {
+        "CALLE CONDE DE VALLELLANO": "Verde"
+    },
+    {
+        "CALLE CRISANTEMO": "Verde"
+    },
+    {
+        "CALLE CUEVAS": "Verde"
+    },
+    {
+        "PASEO DIRECCION": "Azul"
+    },
+    {
+        "CALLE DIVINO REDENTOR": "Verde"
+    },
+    {
+        "CALLE DOLORES BEJARANO": "Verde"
+    },
+    {
+        "CALLE ESCARAMUJO": "Verde"
+    },
+    {
+        "CALLE ESPERANZA SANCHEZ CARRASCOSA": "Verde"
+    },
+    {
+        "CALLE FELIPE MORA": "Verde"
+    },
+    {
+        "CALLE FERELUZ": "Verde"
+    },
+    {
+        "CALLE FRANCISCA CALONGE": "Verde"
+    },
+    {
+        "CALLE FRANCISCA CONDE": "Verde"
+    },
+    {
+        "CALLE FRAY JUNIPERO SERRA": "Verde"
+    },
+    {
+        "CALLE GABRIEL PORTADALES": "Verde"
+    },
+    {
+        "CALLE GARCI-NU�O": "Verde"
+    },
+    {
+        "CALLE GARDENIAS": "Verde"
+    },
+    {
+        "CALLE GENCIANA": "Verde"
+    },
+    {
+        "CALLE GONZALO HERRERO": "Verde"
+    },
+    {
+        "CALLE GONZALO SANDINO": "Verde"
+    },
+    {
+        "PLAZA GUILHOU": "Verde"
+    },
+    {
+        "CALLE GUINDOS": "Verde"
+    },
+    {
+        "CALLE GUZMANIA": "Verde"
+    },
+    {
+        "CALLE HERRERA": "Verde"
+    },
+    {
+        "TRAVESIA HERRERA": "Verde"
+    },
+    {
+        "CALLE HIERBABUENA": "Verde"
+    },
+    {
+        "CALLE ISABEL SERRANO": "Verde"
+    },
+    {
+        "CALLE JARAMAGOS": "Verde"
+    },
+    {
+        "CALLE JIRAFA": "Verde"
+    },
+    {
+        "CALLE JOSE FRANCISCO DE ITURZAETA E IZAGUIRRE": "Verde"
+    },
+    {
+        "CALLE LADERA": "Verde"
+    },
+    {
+        "CALLE MANCHEGOS": "Verde"
+    },
+    {
+        "CALLE MANUELA MINGUEZ": "Verde"
+    },
+    {
+        "CALLE MARIANO SERRANO": "Verde"
+    },
+    {
+        "CALLE MARQUES DE VIANA": "Azul"
+    },
+    {
+        "CALLE MATADERO": "Verde"
+    },
+    {
+        "TRAVESIA MATEO": "Verde"
+    },
+    {
+        "CALLE MIOSOTIS": "Verde"
+    },
+    {
+        "CALLE MIRTO": "Verde"
+    },
+    {
+        "CALLE MONASTERIO DE LEYRE": "Verde"
+    },
+    {
+        "CALLE MOQUETAS": "Verde"
+    },
+    {
+        "CALLE MULLER": "Verde"
+    },
+    {
+        "CALLE MULLER": "Azul"
+    },
+    {
+        "CALLE NUESTRA SE�ORA DE LOS DOLORES": "Verde"
+    },
+    {
+        "CALLE OFELIA NIETO": "Verde"
+    },
+    {
+        "CALLE ORQUIDEAS": "Verde"
+    },
+    {
+        "CALLE PANDO": "Verde"
+    },
+    {
+        "CALLE PEDRO MEDRANO": "Verde"
+    },
+    {
+        "CALLE PEDRO MEDRANO": "Azul"
+    },
+    {
+        "TRAVESIA PINOS ALTA": "Verde"
+    },
+    {
+        "CALLE PLATANO": "Verde"
+    },
+    {
+        "CALLE REYES AIZQUIBEL": "Verde"
+    },
+    {
+        "CALLE ROBLEDO": "Verde"
+    },
+    {
+        "CALLE ROSENDO CONDE": "Verde"
+    },
+    {
+        "CALLE SALVIA": "Verde"
+    },
+    {
+        "CALLE SANTA VALENTINA": "Verde"
+    },
+    {
+        "CALLE SANTIAGO CORDERO": "Verde"
+    },
+    {
+        "CALLE SIERRA BULLONES": "Verde"
+    },
+    {
+        "CALLE SORGO": "Verde"
+    },
+    {
+        "CALLE SOTO YOLDI": "Verde"
+    },
+    {
+        "CALLE TORRES": "Verde"
+    },
+    {
+        "CALLE TREBOL": "Verde"
+    },
+    {
+        "CALLE VEZA": "Verde"
+    },
+    {
+        "CALLE VOLUNTARIOS CATALANES": "Verde"
+    },
+    {
+        "CALLE VOLUNTARIOS CATALANES": "Azul"
+    },
+    {
+        "CALLE ALGODONALES": "Verde"
+    },
+    {
+        "CALLE ALGODONALES": "Azul"
+    },
+    {
+        "CALLE ALONSO NU�EZ": "Verde"
+    },
+    {
+        "CALLE AMBROSIO VALLEJO": "Verde"
+    },
+    {
+        "CALLE ARAUCARIA": "Verde"
+    },
+    {
+        "CALLE BARON DEL CASTILLO DE CHIREL": "Azul"
+    },
+    {
+        "CALLE BARON DEL CASTILLO DE CHIREL": "Verde"
+    },
+    {
+        "CALLE BELLVER": "Verde"
+    },
+    {
+        "CALLE BERRUGUETE": "Verde"
+    },
+    {
+        "CALLE BURGOS": "Verde"
+    },
+    {
+        "CALLE BURGOS": "Azul"
+    },
+    {
+        "CALLE BUSTILLO DEL ORO": "Verde"
+    },
+    {
+        "CALLE CACTUS": "Azul"
+    },
+    {
+        "CALLE CAMPO REAL": "Verde"
+    },
+    {
+        "CALLE CARMEN PORTONES": "Verde"
+    },
+    {
+        "CALLE CENICIENTOS": "Verde"
+    },
+    {
+        "CALLE DOLORES": "Verde"
+    },
+    {
+        "CALLE DOLORES": "Azul"
+    },
+    {
+        "CALLE ENRIQUE AGUILAR": "Verde"
+    },
+    {
+        "CALLE FELIX PORTONES": "Verde"
+    },
+    {
+        "CALLE FRANCOS RODRIGUEZ": "Azul"
+    },
+    {
+        "CALLE FULGENCIO DE MIGUEL": "Verde"
+    },
+    {
+        "CALLE GLADIOLO": "Azul"
+    },
+    {
+        "CALLE GUADALIX": "Verde"
+    },
+    {
+        "CALLE HIERBABUENA": "Azul"
+    },
+    {
+        "CALLE HUERTA DEL OBISPO": "Verde"
+    },
+    {
+        "CALLE ISLA DE CORCEGA": "Verde"
+    },
+    {
+        "CALLE ISLA DE GOMERA": "Verde"
+    },
+    {
+        "CALLE JOSE CALVO": "Verde"
+    },
+    {
+        "CALLE JOSE CALVO": "Azul"
+    },
+    {
+        "CALLE JUAN DEL RISCO": "Azul"
+    },
+    {
+        "CALLE JUAN DEL RISCO": "Verde"
+    },
+    {
+        "CALLE LAS MATAS": "Verde"
+    },
+    {
+        "CALLE LOPE DE HARO": "Verde"
+    },
+    {
+        "CALLE LOPE DE HARO": "Azul"
+    },
+    {
+        "CALLE LORENZANA": "Verde"
+    },
+    {
+        "CALLE LORENZANA": "Azul"
+    },
+    {
+        "CALLE LOS MOLINOS": "Verde"
+    },
+    {
+        "CALLE LOS MOLINOS": "Azul"
+    },
+    {
+        "CALLE LUIS MISSON": "Verde"
+    },
+    {
+        "CALLE LUIS PORTONES": "Verde"
+    },
+    {
+        "CALLE MARGARITAS": "Verde"
+    },
+    {
+        "CALLE MARIA LUISA": "Verde"
+    },
+    {
+        "CALLE MARIA ZAYAS": "Verde"
+    },
+    {
+        "CALLE MARIA ZAYAS": "Azul"
+    },
+    {
+        "CALLE MARIANO FERNANDEZ": "Verde"
+    },
+    {
+        "CALLE MARTINEZ": "Verde"
+    },
+    {
+        "CALLE NARANJO": "Verde"
+    },
+    {
+        "CALLE NENUFAR": "Verde"
+    },
+    {
+        "CALLE NUESTRA SE�ORA DEL CARMEN": "Verde"
+    },
+    {
+        "CALLE NUESTRA SE�ORA DEL CARMEN": "Azul"
+    },
+    {
+        "CALLE OFELIA NIETO": "Azul"
+    },
+    {
+        "CALLE PALACIOS": "Verde"
+    },
+    {
+        "CALLE PANIZO": "Verde"
+    },
+    {
+        "CALLE PEDRO TEZANO": "Verde"
+    },
+    {
+        "CALLE PEDRO TEZANO": "Azul"
+    },
+    {
+        "CALLE PORFIRIO": "Verde"
+    },
+    {
+        "CALLE RITA LUNA": "Verde"
+    },
+    {
+        "CALLE ROMAN ALONSO": "Verde"
+    },
+    {
+        "CALLE ROSA MENENDEZ": "Verde"
+    },
+    {
+        "CALLE RUIZ PALACIOS": "Verde"
+    },
+    {
+        "CALLE RUIZ PALACIOS": "Azul"
+    },
+    {
+        "CALLEJON SAN RAFAEL": "Verde"
+    },
+    {
+        "CALLE SAUCO": "Verde"
+    },
+    {
+        "CALLE SERRALLO": "Verde"
+    },
+    {
+        "CALLE TABLADA": "Azul"
+    },
+    {
+        "CALLE TABLADA": "Verde"
+    },
+    {
+        "CALLE VILLAAMIL": "Azul"
+    },
+    {
+        "CALLE VILLAAMIL": "Verde"
+    },
+    {
+        "CALLE ZINIAS": "Verde"
+    },
+    {
+        "CALLE ABDON TERRADAS": "Verde"
+    },
+    {
+        "CALLE ALBERTO AGUILERA": "Azul"
+    },
+    {
+        "CALLE ANDRES MELLADO": "Azul"
+    },
+    {
+        "CALLE ANDRES MELLADO": "Verde"
+    },
+    {
+        "TRAVESIA ANDRES MELLADO": "Verde"
+    },
+    {
+        "CALLE ANTONIO PALOMINO": "Verde"
+    },
+    {
+        "CALLE ARCIPRESTE DE HITA": "Azul"
+    },
+    {
+        "CALLE BLASCO DE GARAY": "Azul"
+    },
+    {
+        "CALLE BLASCO DE GARAY": "Verde"
+    },
+    {
+        "CALLE CALVO ASENSIO": "Verde"
+    },
+    {
+        "CALLE CEA BERMUDEZ": "Azul"
+    },
+    {
+        "CALLE DONOSO CORTES": "Verde"
+    },
+    {
+        "CALLE FERNANDEZ DE LOS RIOS": "Azul"
+    },
+    {
+        "CALLE FERNANDEZ DE LOS RIOS": "Verde"
+    },
+    {
+        "CALLE FERNANDO EL CATOLICO": "Azul"
+    },
+    {
+        "CALLE FERNANDO EL CATOLICO": "Verde"
+    },
+    {
+        "CALLE FRANCISCO RICCI": "Verde"
+    },
+    {
+        "CALLE GAZTAMBIDE": "Azul"
+    },
+    {
+        "CALLE GAZTAMBIDE": "Verde"
+    },
+    {
+        "CALLE GUZMAN EL BUENO": "Azul"
+    },
+    {
+        "CALLE GUZMAN EL BUENO": "Verde"
+    },
+    {
+        "CALLE HILARION ESLAVA": "Azul"
+    },
+    {
+        "CALLE HILARION ESLAVA": "Verde"
+    },
+    {
+        "CALLE ISAAC PERAL": "Azul"
+    },
+    {
+        "CALLE ISAAC PERAL": "Verde"
+    },
+    {
+        "CALLE JOAQUIN MARIA LOPEZ": "Azul"
+    },
+    {
+        "CALLE JOAQUIN MARIA LOPEZ": "Verde"
+    },
+    {
+        "CALLE MELENDEZ VALDES": "Verde"
+    },
+    {
+        "CALLE MELENDEZ VALDES": "Azul"
+    },
+    {
+        "CALLE RODRIGUEZ SAN PEDRO": "Verde"
+    },
+    {
+        "CALLE ARAPILES": "Azul"
+    },
+    {
+        "CALLE ARAPILES": "Verde"
+    },
+    {
+        "CALLE BRAVO MURILLO": "Azul"
+    },
+    {
+        "CALLE CASARRUBUELOS": "Verde"
+    },
+    {
+        "CALLE CERCEDILLA": "Verde"
+    },
+    {
+        "PLAZA CONDE DEL VALLE DE SUCHIL": "Azul"
+    },
+    {
+        "PLAZA CONDE DEL VALLE DE SUCHIL": "Verde"
+    },
+    {
+        "CALLE EMILIO CARRERE": "Verde"
+    },
+    {
+        "CALLE ESCOSURA": "Verde"
+    },
+    {
+        "CALLE ESQUIVEL": "Verde"
+    },
+    {
+        "CALLE FERNANDO GARRIDO": "Verde"
+    },
+    {
+        "CALLE GALILEO": "Verde"
+    },
+    {
+        "CALLE GALILEO": "Azul"
+    },
+    {
+        "CALLE LOZOYA": "Verde"
+    },
+    {
+        "CALLE MAGALLANES": "Verde"
+    },
+    {
+        "CALLE MAGALLANES": "Azul"
+    },
+    {
+        "GLORIETA QUEVEDO": "Azul"
+    },
+    {
+        "GLORIETA RUIZ JIMENEZ": "Azul"
+    },
+    {
+        "CALLE SAN BERNARDO": "Azul"
+    },
+    {
+        "CALLE VALLEHERMOSO": "Verde"
+    },
+    {
+        "CALLE ALBURQUERQUE": "Verde"
+    },
+    {
+        "CALLE CARDENAL CISNEROS": "Verde"
+    },
+    {
+        "CALLE CASTILLO": "Verde"
+    },
+    {
+        "CALLE COVARRUBIAS": "Verde"
+    },
+    {
+        "CALLE EGUILAZ": "Verde"
+    },
+    {
+        "CALLE FEIJOO": "Verde"
+    },
+    {
+        "CALLE FRANCISCO DE ROJAS": "Verde"
+    },
+    {
+        "CALLE FUENCARRAL": "Azul"
+    },
+    {
+        "CALLE GARCIA DE PAREDES": "Verde"
+    },
+    {
+        "CALLE GARCILASO": "Verde"
+    },
+    {
+        "CALLE GENERAL ALVAREZ DE CASTRO": "Azul"
+    },
+    {
+        "CALLE GENERAL ALVAREZ DE CASTRO": "Verde"
+    },
+    {
+        "GLORIETA GENERAL ALVAREZ DE CASTRO": "Verde"
+    },
+    {
+        "CALLE HARTZENBUSCH": "Verde"
+    },
+    {
+        "CALLE JERONIMO DE LA QUINTANA": "Verde"
+    },
+    {
+        "CALLE JORDAN": "Verde"
+    },
+    {
+        "CALLE JOSE ABASCAL": "Azul"
+    },
+    {
+        "CALLE JOSE MARA�ON": "Verde"
+    },
+    {
+        "CALLE JUAN DE AUSTRIA": "Verde"
+    },
+    {
+        "CALLE MANUEL CORTINA": "Verde"
+    },
+    {
+        "CALLE MANUEL GONZALEZ LONGORIA": "Verde"
+    },
+    {
+        "CALLE MANUEL SILVELA": "Azul"
+    },
+    {
+        "CALLE MANUEL SILVELA": "Verde"
+    },
+    {
+        "CALLE MEDELLIN": "Verde"
+    },
+    {
+        "CALLE NICASIO GALLEGO": "Verde"
+    },
+    {
+        "CALLE OLID": "Verde"
+    },
+    {
+        "CALLE PALAFOX": "Verde"
+    },
+    {
+        "CALLE QUESADA": "Verde"
+    },
+    {
+        "CALLE RAIMUNDO LULIO": "Verde"
+    },
+    {
+        "CALLE SAGUNTO": "Verde"
+    },
+    {
+        "CALLE SANDOVAL": "Verde"
+    },
+    {
+        "CALLE SANTA ENGRACIA": "Azul"
+    },
+    {
+        "CALLE SANTA FELICIANA": "Verde"
+    },
+    {
+        "CALLE SANTISIMA TRINIDAD": "Verde"
+    },
+    {
+        "CALLE TRAFALGAR": "Azul"
+    },
+    {
+        "CALLE TRAFALGAR": "Verde"
+    },
+    {
+        "CALLE VIRIATO": "Verde"
+    },
+    {
+        "CALLE ALCALA GALIANO": "Verde"
+    },
+    {
+        "CALLE ALFONSO X": "Verde"
+    },
+    {
+        "CALLE ALMAGRO": "Verde"
+    },
+    {
+        "CALLE ALONSO CANO": "Azul"
+    },
+    {
+        "CALLE ALONSO CANO": "Verde"
+    },
+    {
+        "PLAZA ALONSO MARTINEZ": "Azul"
+    },
+    {
+        "CALLE BLANCA DE NAVARRA": "Verde"
+    },
+    {
+        "CALLE CARACAS": "Verde"
+    },
+    {
+        "PASEO EDUARDO DATO": "Azul"
+    },
+    {
+        "CALLE EL ESPA�OLETO": "Verde"
+    },
+    {
+        "CALLE FERNANDEZ DE LA HOZ": "Azul"
+    },
+    {
+        "CALLE FERNANDEZ DE LA HOZ": "Verde"
+    },
+    {
+        "CALLE FERNANDO EL SANTO": "Verde"
+    },
+    {
+        "CALLE FORTUNY": "Azul"
+    },
+    {
+        "CALLE FORTUNY": "Verde"
+    },
+    {
+        "CALLE GARCIA DE PAREDES": "Azul"
+    },
+    {
+        "CALLE GENERAL ARRANDO": "Verde"
+    },
+    {
+        "CALLE GENOVA": "Azul"
+    },
+    {
+        "CALLE JENNER": "Verde"
+    },
+    {
+        "CALLE JOSE ABASCAL": "Verde"
+    },
+    {
+        "CALLE MARQUES DE RISCAL": "Azul"
+    },
+    {
+        "CALLE MARQUES DE RISCAL": "Verde"
+    },
+    {
+        "CALLE MIGUEL ANGEL": "Azul"
+    },
+    {
+        "CALLE MODESTO LAFUENTE": "Azul"
+    },
+    {
+        "CALLE MODESTO LAFUENTE": "Verde"
+    },
+    {
+        "CALLE MONTE ESQUINZA": "Verde"
+    },
+    {
+        "CALLE MOREJON": "Verde"
+    },
+    {
+        "CALLE ORFILA": "Verde"
+    },
+    {
+        "GLORIETA PINTOR SOROLLA": "Azul"
+    },
+    {
+        "CALLE PONCE DE LEON": "Verde"
+    },
+    {
+        "CALLE PONZANO": "Verde"
+    },
+    {
+        "CALLE PONZANO": "Azul"
+    },
+    {
+        "CALLE RAFAEL CALVO": "Azul"
+    },
+    {
+        "CALLE RAFAEL CALVO": "Verde"
+    },
+    {
+        "CALLE SANTA ENGRACIA": "Verde"
+    },
+    {
+        "CALLE VIRIATO": "Azul"
+    },
+    {
+        "CALLE VIRTUDES": "Verde"
+    },
+    {
+        "CALLE ZURBANO": "Verde"
+    },
+    {
+        "CALLE ZURBARAN": "Verde"
+    },
+    {
+        "CALLE AGUSTIN DE BETANCOURT": "Verde"
+    },
+    {
+        "CALLE AGUSTIN DE BETANCOURT": "Azul"
+    },
+    {
+        "CALLE ALENZA": "Verde"
+    },
+    {
+        "CALLE BRAVO MURILLO": "Verde"
+    },
+    {
+        "CALLE BRETON DE LOS HERREROS": "Verde"
+    },
+    {
+        "CALLE CRISTOBAL BORDIU": "Verde"
+    },
+    {
+        "PLAZA DESCUBRIDOR DIEGO DE ORDAS": "Verde"
+    },
+    {
+        "CALLE ESPRONCEDA": "Verde"
+    },
+    {
+        "CALLE MALAGA": "Verde"
+    },
+    {
+        "CALLE MARIA DE GUZMAN": "Verde"
+    },
+    {
+        "CALLE MARIA DE GUZMAN": "Azul"
+    },
+    {
+        "CALLE MARIA PANES": "Verde"
+    },
+    {
+        "CALLE MAUDES": "Verde"
+    },
+    {
+        "CALLE RIOS ROSAS": "Verde"
+    },
+    {
+        "PLAZA SAN JUAN DE LA CRUZ": "Verde"
+    },
+    {
+        "PLAZA SAN JUAN DE LA CRUZ": "Azul"
+    },
+    {
+        "CALLE TREVI�O": "Verde"
+    },
+    {
+        "CALLE TREVI�O": "Azul"
+    },
+    {
+        "CALLE VARGAS": "Verde"
+    },
+    {
+        "CALLE AMAPOLAS": "Verde"
+    },
+    {
+        "CALLE ATAJO": "Verde"
+    },
+    {
+        "CALLE AVIACION ESPA�OLA": "Verde"
+    },
+    {
+        "CALLE BOIX Y MORER": "Verde"
+    },
+    {
+        "CALLE BRISA": "Verde"
+    },
+    {
+        "CALLE CEA BERMUDEZ": "Verde"
+    },
+    {
+        "CALLE DOMENICO SCARLATTI": "Verde"
+    },
+    {
+        "CALLE ESQUILACHE": "Verde"
+    },
+    {
+        "CALLE EUSTAQUIO RODRIGUEZ": "Verde"
+    },
+    {
+        "AVENIDA FILIPINAS": "Azul"
+    },
+    {
+        "AVENIDA FILIPINAS": "Verde"
+    },
+    {
+        "CALLE GENERAL AMPUDIA": "Verde"
+    },
+    {
+        "CALLE GENERAL ASENSIO CABANILLAS": "Verde"
+    },
+    {
+        "CALLE GENERAL IBA�EZ DE IBERO": "Verde"
+    },
+    {
+        "CALLE GRANJA": "Azul"
+    },
+    {
+        "CALLE JESUS MAESTRO": "Verde"
+    },
+    {
+        "PASAJE JOSE PEREZ PLA": "Azul"
+    },
+    {
+        "PASEO JUAN XXIII": "Azul"
+    },
+    {
+        "PASEO JUAN XXIII": "Verde"
+    },
+    {
+        "PLAZA JUAN ZORRILLA": "Verde"
+    },
+    {
+        "CALLE JULIAN ROMEA": "Verde"
+    },
+    {
+        "CALLE JULIAN ROMEA": "Azul"
+    },
+    {
+        "CALLE LOMA": "Azul"
+    },
+    {
+        "CALLE LUCIO DEL VALLE": "Verde"
+    },
+    {
+        "CALLE MAESTRO �NGEL LLORCA": "Verde"
+    },
+    {
+        "CALLE MAESTRO �NGEL LLORCA": "Azul"
+    },
+    {
+        "PLAZA MARQUES DE COMILLAS": "Azul"
+    },
+    {
+        "CALLE MARQUES DE LEMA": "Verde"
+    },
+    {
+        "CALLE MAX AUB": "Verde"
+    },
+    {
+        "CALLE MELQU�ADES �LVAREZ": "Verde"
+    },
+    {
+        "CALLE OLIVOS": "Verde"
+    },
+    {
+        "AVENIDA PABLO IGLESIAS": "Azul"
+    },
+    {
+        "CALLE PASTOR": "Verde"
+    },
+    {
+        "CALLE RAMIRO II": "Verde"
+    },
+    {
+        "AVENIDA REINA VICTORIA": "Verde"
+    },
+    {
+        "PASEO SAN FRANCISCO DE SALES": "Verde"
+    },
+    {
+        "PASEO SAN FRANCISCO DE SALES": "Azul"
+    },
+    {
+        "CALLE SANTANDER": "Verde"
+    },
+    {
+        "CALLE SIERRA": "Verde"
+    },
+    {
+        "CALLE SOTOMAYOR": "Verde"
+    },
+    {
+        "AVENIDA VALLE": "Verde"
+    },
+    {
+        "AVENIDA VALLE": "Azul"
+    },
+    {
+        "GALERIA VALLEHERMOSO": "Verde"
+    },
+    {
+        "CALLE VICENTE ALEIXANDRE": "Verde"
+    },
+    {
+        "CALLE VI�A": "Verde"
+    },
+    {
+        "CALLE VIRGEN DE NIEVA": "Azul"
+    },
+    {
+        "PLAZA ARTEIJO": "Verde"
+    },
+    {
+        "CALLE BECERREA": "Verde"
+    },
+    {
+        "AVENIDA BETANZOS": "Verde"
+    },
+    {
+        "AVENIDA BETANZOS": "Azul"
+    },
+    {
+        "PLAZA CARBALLO": "Verde"
+    },
+    {
+        "CALLE CELANOVA": "Verde"
+    },
+    {
+        "CALLE CHANTADA": "Verde"
+    },
+    {
+        "PLAZA CIEZA": "Verde"
+    },
+    {
+        "PLAZA CORCUBION": "Verde"
+    },
+    {
+        "CALLE DOCTOR RAMON CASTROVIEJO": "Verde"
+    },
+    {
+        "AVENIDA EL FERROL": "Verde"
+    },
+    {
+        "AVENIDA EL FERROL": "Azul"
+    },
+    {
+        "PLAZA ESQUIVIAS": "Azul"
+    },
+    {
+        "CALLE FERMIN CABALLERO": "Verde"
+    },
+    {
+        "CALLE FERMIN CABALLERO": "Azul"
+    },
+    {
+        "PLAZA FONSAGRADA": "Verde"
+    },
+    {
+        "CAMINO GANAPANES": "Verde"
+    },
+    {
+        "CALLE GINZO DE LIMIA": "Verde"
+    },
+    {
+        "CALLE GINZO DE LIMIA": "Azul"
+    },
+    {
+        "CALLE LA BA�EZA": "Verde"
+    },
+    {
+        "CALLE MELCHOR FERNANDEZ ALMAGRO": "Verde"
+    },
+    {
+        "CALLE MELCHOR FERNANDEZ ALMAGRO": "Azul"
+    },
+    {
+        "PLAZA MONDARIZ": "Verde"
+    },
+    {
+        "PLAZA MONDARIZ": "Azul"
+    },
+    {
+        "AVENIDA MONFORTE DE LEMOS": "Verde"
+    },
+    {
+        "AVENIDA MONFORTE DE LEMOS": "Azul"
+    },
+    {
+        "PLAZA PADRON": "Verde"
+    },
+    {
+        "GLORIETA PIEDRAFITA DEL CEBRERO": "Verde"
+    },
+    {
+        "CALLE PINTOR FRANCISCO LLORENS": "Verde"
+    },
+    {
+        "CALLE PONFERRADA": "Verde"
+    },
+    {
+        "CALLE PUENTEDEUME": "Verde"
+    },
+    {
+        "PLAZA PUERTO DE LA CRUZ": "Verde"
+    },
+    {
+        "CALLE PUERTO DE MASPALOMAS": "Verde"
+    },
+    {
+        "GLORIETA REALES ACADEMIAS": "Verde"
+    },
+    {
+        "PLAZA REDONDELA": "Verde"
+    },
+    {
+        "CALLE RIBADAVIA": "Verde"
+    },
+    {
+        "CALLE RIBADAVIA": "Azul"
+    },
+    {
+        "PLAZA RIBADEO": "Verde"
+    },
+    {
+        "CALLE SANTIAGO DE COMPOSTELA": "Verde"
+    },
+    {
+        "CALLE SARRIA": "Verde"
+    },
+    {
+        "CALLE SARRIA": "Azul"
+    },
+    {
+        "CALLE SINESIO DELGADO": "Verde"
+    },
+    {
+        "PLAZA TUY": "Verde"
+    },
+    {
+        "CALLE UBEDA": "Verde"
+    },
+    {
+        "PASEO VAGUADA": "Azul"
+    },
+    {
+        "PLAZA VERIN": "Verde"
+    },
+    {
+        "PLAZA VILLAFRANCA DE LOS BARROS": "Verde"
+    },
+    {
+        "CALLE ALFREDO MARQUERIE": "Verde"
+    },
+    {
+        "CALLE ANTONIO LOPEZ AGUADO": "Verde"
+    },
+    {
+        "CALLE ARTURO DUPERIER": "Verde"
+    },
+    {
+        "CALLE ARZOBISPO MORCILLO": "Verde"
+    },
+    {
+        "CALLE ARZOBISPO MORCILLO": "Azul"
+    },
+    {
+        "CALLE ARZOBISPO MORCILLO": "Rojo"
+    },
+    {
+        "AVENIDA CARDENAL HERRERA ORIA": "Verde"
+    },
+    {
+        "CALLE FINISTERRE": "Verde"
+    },
+    {
+        "CALLE FINISTERRE": "Azul"
+    },
+    {
+        "CALLE JULIO PALACIOS": "Verde"
+    },
+    {
+        "CALLE MELCHOR FERNANDEZ ALMAGRO": "Rojo"
+    },
+    {
+        "AVENIDA MONFORTE DE LEMOS": "Rojo"
+    },
+    {
+        "CALLE NARCIS MONTURIOL": "Verde"
+    },
+    {
+        "CALLE PATONES": "Verde"
+    },
+    {
+        "CALLE PEDRO RICO": "Verde"
+    },
+    {
+        "CALLE PEDRO RICO": "Azul"
+    },
+    {
+        "CALLE PEDRO RICO": "Rojo"
+    },
+    {
+        "CALLE PUENTECESURES": "Verde"
+    },
+    {
+        "GLORIETA REALES ACADEMIAS": "Azul"
+    },
+    {
+        "CALLE RIO BULLAQUE": "Verde"
+    },
+    {
+        "CALLE SANGENJO": "Verde"
+    },
+    {
+        "CALLE SANGENJO": "Azul"
+    },
+    {
+        "CALLE VALENCIA DE DON JUAN": "Verde"
+    },
+    {
+        "CALLE VALENCIA DE DON JUAN": "Azul"
+    },
+    {
+        "CALLE VILLA DE MARIN": "Verde"
+    },
+    {
+        "CALLE VILLA DE MARIN": "Azul"
+    },
+    {
+        "CALLE ACANTILADO": "Verde"
+    },
+    {
+        "PLAZA ALMU�ECAR": "Verde"
+    },
+    {
+        "CALLE ANICETO MARINAS": "Verde"
+    },
+    {
+        "CALLE ANICETO MARINAS": "Azul"
+    },
+    {
+        "CALLE ARCHIPIELAGO": "Verde"
+    },
+    {
+        "CALLE ARRECIFE": "Verde"
+    },
+    {
+        "CALLE BAHIA": "Verde"
+    },
+    {
+        "PASEO CAMOENS Y VALERO": "Naranja"
+    },
+    {
+        "PLAZA CANCILLERIA": "Verde"
+    },
+    {
+        "CALLE COLINA": "Verde"
+    },
+    {
+        "PASEO COMANDANTE FORTEA": "Verde"
+    },
+    {
+        "CALLE CONTINENTE": "Verde"
+    },
+    {
+        "CALLE CORDILLERA": "Verde"
+    },
+    {
+        "CALLE DOCTOR CASAL": "Verde"
+    },
+    {
+        "CALLE FELIPE MORATILLA": "Verde"
+    },
+    {
+        "PASEO FLORIDA": "Azul"
+    },
+    {
+        "CALLE FRANCISCO Y JACINTO ALCANTARA": "Naranja"
+    },
+    {
+        "CALLE IRUN": "Verde"
+    },
+    {
+        "CALLE LANZADA": "Verde"
+    },
+    {
+        "CALLE LOECHES": "Verde"
+    },
+    {
+        "CALLE MAESTRO SOROZABAL": "Verde"
+    },
+    {
+        "CALLE MANANTIAL": "Verde"
+    },
+    {
+        "PASEO MARQUES DE MONISTROL": "Verde"
+    },
+    {
+        "CALLE MELCHOR CANO": "Verde"
+    },
+    {
+        "CALLE MELCHOR CANO": "Azul"
+    },
+    {
+        "PLAZA MESETA": "Verde"
+    },
+    {
+        "PASEO MORET": "Verde"
+    },
+    {
+        "CALLE MOZART": "Verde"
+    },
+    {
+        "CALLE PENINSULA": "Verde"
+    },
+    {
+        "PASEO PINTOR ROSALES": "Verde"
+    },
+    {
+        "PASEO PINTOR ROSALES": "Azul"
+    },
+    {
+        "CALLE PROFESOR MARTIN ALMAGRO BASCH": "Naranja"
+    },
+    {
+        "PASEO REY": "Naranja"
+    },
+    {
+        "PASEO REY": "Verde"
+    },
+    {
+        "CALLE RIBERA DEL MANZANARES": "Verde"
+    },
+    {
+        "CALLE RIBERA DEL MANZANARES": "Azul"
+    },
+    {
+        "CALLE ROSALEDA": "Naranja"
+    },
+    {
+        "PASEO RUPERTO CHAPI": "Naranja"
+    },
+    {
+        "GLORIETA SAN ANTONIO DE LA FLORIDA": "Verde"
+    },
+    {
+        "CALLE SAN FELICES": "Verde"
+    },
+    {
+        "CALLE SAN POL DE MAR": "Azul"
+    },
+    {
+        "CALLE SANTA COLOMA": "Verde"
+    },
+    {
+        "CALLE SANTA COMBA": "Verde"
+    },
+    {
+        "CALLE SANTA FE": "Verde"
+    },
+    {
+        "CALLE SANTA OLALLA": "Verde"
+    },
+    {
+        "CALLE SANTA POLA": "Verde"
+    },
+    {
+        "CALLE SANTA POLA": "Azul"
+    },
+    {
+        "CALLE SANTOVENIA": "Verde"
+    },
+    {
+        "CALLE SENDA DEL REY": "Azul"
+    },
+    {
+        "AVENIDA VALLADOLID": "Verde"
+    },
+    {
+        "AVENIDA VALLADOLID": "Azul"
+    },
+    {
+        "CALLE ALTAMIRANO": "Azul"
+    },
+    {
+        "CALLE ALTAMIRANO": "Verde"
+    },
+    {
+        "CALLE ARRIAZA": "Verde"
+    },
+    {
+        "CALLE BENITO GUTIERREZ": "Verde"
+    },
+    {
+        "CALLE BUEN SUCESO": "Verde"
+    },
+    {
+        "CALLE CADARSO": "Verde"
+    },
+    {
+        "CALLE ECIJA": "Verde"
+    },
+    {
+        "CALLE EDUARDO BENOT": "Verde"
+    },
+    {
+        "PLAZA ESPA�A": "Verde"
+    },
+    {
+        "PLAZA ESPA�A": "Azul"
+    },
+    {
+        "CALLE ESTANISLAO FIGUERAS": "Verde"
+    },
+    {
+        "CALLE EVARISTO SAN MIGUEL": "Verde"
+    },
+    {
+        "CALLE FERRAZ": "Azul"
+    },
+    {
+        "CALLE FERRAZ": "Verde"
+    },
+    {
+        "CALLE FRANCISCO LOZANO": "Verde"
+    },
+    {
+        "CALLE ILUSTRACION": "Verde"
+    },
+    {
+        "CALLE JUAN ALVAREZ MENDIZABAL": "Verde"
+    },
+    {
+        "CALLE LISBOA": "Verde"
+    },
+    {
+        "CALLE LUISA FERNANDA": "Verde"
+    },
+    {
+        "PLAZA MARQUES DE CERRALBO": "Verde"
+    },
+    {
+        "CALLE MARQUES DE URQUIJO": "Azul"
+    },
+    {
+        "CALLE MARQUES DE URQUIJO": "Verde"
+    },
+    {
+        "CALLE MARTIN DE LOS HEROS": "Verde"
+    },
+    {
+        "CALLE PRINCESA": "Azul"
+    },
+    {
+        "CALLE QUINTANA": "Verde"
+    },
+    {
+        "CALLE QUINTANA": "Azul"
+    },
+    {
+        "CALLE REY FRANCISCO": "Verde"
+    },
+    {
+        "CALLE ROMERO ROBLEDO": "Verde"
+    },
+    {
+        "CALLE TUTOR": "Azul"
+    },
+    {
+        "CALLE TUTOR": "Verde"
+    },
+    {
+        "CALLE VENTURA RODRIGUEZ": "Verde"
+    },
+    {
+        "CALLE VENTURA RODRIGUEZ": "Azul"
+    },
+    {
+        "CALLE AJALVIR": "Verde"
+    },
+    {
+        "CALLE ALMANSA": "Azul"
+    },
+    {
+        "TRAVESIA ALMANSA": "Verde"
+    },
+    {
+        "CALLE ARAVACA": "Verde"
+    },
+    {
+        "CALLE ARQUITECTO S�NCHEZ ARCAS": "Verde"
+    },
+    {
+        "CALLE ARQUITECTO S�NCHEZ ARCAS": "Azul"
+    },
+    {
+        "CALLE BEATRIZ DE BOBADILLA": "Verde"
+    },
+    {
+        "CALLE BEATRIZ DE BOBADILLA": "Azul"
+    },
+    {
+        "CALLE CONDE DE LA CIMERA": "Verde"
+    },
+    {
+        "AVENIDA DOCTOR FEDERICO RUBIO Y GALI": "Azul"
+    },
+    {
+        "CALLE DOCTOR TEOFILO HERNANDO ORTEGA": "Azul"
+    },
+    {
+        "CALLE ESTUDIANTES": "Azul"
+    },
+    {
+        "CALLE EXPLANADA": "Verde"
+    },
+    {
+        "CALLE FLAMISELL": "Verde"
+    },
+    {
+        "CALLE FRANCISCO DE DIEGO": "Verde"
+    },
+    {
+        "CALLE JUAN MONTALVO": "Verde"
+    },
+    {
+        "CALLE MARIA AUXILIADORA": "Azul"
+    },
+    {
+        "CALLE MARIA AUXILIADORA": "Verde"
+    },
+    {
+        "CALLE MOGUER": "Verde"
+    },
+    {
+        "CALLE OLIMPIADA": "Verde"
+    },
+    {
+        "CALLE PEDRO JUSTO DORADO DELLMANS": "Azul"
+    },
+    {
+        "CALLE PEDRO JUSTO DORADO DELLMANS": "Verde"
+    },
+    {
+        "CALLE PIRINEOS": "Verde"
+    },
+    {
+        "CALLE PIRINEOS": "Azul"
+    },
+    {
+        "CALLE SANTIAGO RUSI�OL": "Verde"
+    },
+    {
+        "CALLE SANTIAGO RUSI�OL": "Azul"
+    },
+    {
+        "CALLE TREMP": "Verde"
+    },
+    {
+        "CALLE VALLE DE ARAN": "Verde"
+    },
+    {
+        "CALLE VALLS FERRERA": "Verde"
+    },
+    {
+        "CALLE VASCOS": "Azul"
+    },
+    {
+        "CALLE VASCOS": "Verde"
+    },
+    {
+        "CALLE VIELLA": "Verde"
+    },
+    {
+        "CALLE VIVERO": "Verde"
+    },
+    {
+        "CALLE AGUILAFUENTE": "Verde"
+    },
+    {
+        "CALLE ALESANCO": "Verde"
+    },
+    {
+        "TRAVESIA GENERAL HIERRO MARTINEZ": "Verde"
+    },
+    {
+        "CALLE JOSE ROMERO": "Verde"
+    },
+    {
+        "CALLE SAN CESAR": "Verde"
+    },
+    {
+        "CALLE SANCHEZ PRECIADO": "Verde"
+    },
+    {
+        "CALLE SANCHEZ PRECIADO": "Azul"
+    },
+    {
+        "TRAVESIA SANCHEZ PRECIADO": "Verde"
+    },
+    {
+        "AVENIDA SANTO ANGEL DE LA GUARDA": "Verde"
+    },
+    {
+        "AVENIDA SANTO ANGEL DE LA GUARDA": "Azul"
+    }
+]
