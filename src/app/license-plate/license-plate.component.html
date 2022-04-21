@@ -1,9 +1,9 @@
 <div class="license-plate">
     <mat-form-field appearance="fill" color="accent">
         <mat-label>Su matrícula</mat-label>
-        <input matInput required>
+        <input matInput required [formControl]="matricula" required>
         <mat-error *ngIf="matricula.invalid">{{getErrorMessage()}}</mat-error>
     </mat-form-field>
-
+    <button class="bt-next" routerLink="/payment" type="submit" [disabled]="matricula.invalid" mat-raised-button
+        style="display: block;">Siguiente</button>
 </div>
-<button routerLink="/payment" mat-stroked-button>Siguiente</button>

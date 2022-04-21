@@ -20,6 +20,11 @@
     "@angular/platform-browser": "~13.2.0",
     "@angular/platform-browser-dynamic": "~13.2.0",
     "@angular/router": "~13.2.0",
+    "moment": "^2.29.3",
+    "ngx-card": "^0.2.4",
+    "ngx-cookie-service": "^13.2.0",
+    "ngx-mat-timepicker": "^13.0.0",
+    "ngx-payment-card": "^2.0.0",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"

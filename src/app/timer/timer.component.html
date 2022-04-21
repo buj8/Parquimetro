@@ -1,0 +1,13 @@
+<div>
+    <mat-form-field>
+        <input matInput name="selected_time" [format]="24" [(ngModel)]="timerControl" [ngxMatTimepicker]="picker"
+            min={{minTime}} placeholder="Hasta" required />
+        <mat-icon matSuffix (click)="picker.open()">watch_later
+        </mat-icon>
+    </mat-form-field>
+    <div class="ngx-mtp-box-bordered">
+        <ngx-mat-timepicker color="primary" #picker></ngx-mat-timepicker>
+    </div>
+    <button class="bt-next" routerLink="/receipt" type="submit" [disabled]="timerControl.invalid" mat-raised-button
+        style="display: block;">Siguiente</button>
+</div>

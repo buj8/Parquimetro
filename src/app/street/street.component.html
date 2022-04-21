@@ -1,15 +1,18 @@
 <div class="street-form">
     <form>
-        <mat-form-field class="sf-full-width" appearance="legacy">
+        <mat-form-field class="sf-full-width" appearance="legacy" style="width: 50%;">
             <mat-label>Calle</mat-label>
             <input type="text" placeholder="¿Dónde estás?" aria-label="Calle" matInput [formControl]="acStreets"
-                [matAutocomplete]="auto">
+                [matAutocomplete]="auto" required>
         </mat-form-field>
         <mat-autocomplete #auto="matAutocomplete">
             <mat-option *ngFor="let option of filteredOptions | async" [value]="option">
                 {{option}}
             </mat-option>
         </mat-autocomplete>
-
     </form>
+    <div id="zona" [ngStyle]="{'color' : color_style}">{{"Zona "+ color}}</div>
+    <button class="bt-next" routerLink="/timer" type="submit" [disabled]="acStreets.invalid" mat-raised-button
+        style="display: block;">Siguiente</button>
+
 </div>

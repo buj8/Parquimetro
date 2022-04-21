@@ -11,16 +11,28 @@ import {MatInputModule} from '@angular/material/input';
 import {MatAutocompleteModule} from '@angular/material/autocomplete'; 
 import {FormsModule, ReactiveFormsModule} from '@angular/forms';
 
+
 import {MatButtonModule} from '@angular/material/button';
 import { PayMethodComponent } from './pay-method/pay-method.component';
 import { LicensePlateComponent } from './license-plate/license-plate.component';
+import { TimerComponent } from './timer/timer.component';
+import { NgxMatTimepickerModule } from 'ngx-mat-timepicker';
+import { ReceiptComponent } from './receipt/receipt.component';
+import {MatListModule} from '@angular/material/list';
+
+import {MatIconModule} from '@angular/material/icon';
+
+import { CookieService } from 'ngx-cookie-service';
+
 
 @NgModule({
   declarations: [
     AppComponent,
     StreetComponent,
     PayMethodComponent,
-    LicensePlateComponent
+    LicensePlateComponent,
+    TimerComponent,
+    ReceiptComponent
   ],
   imports: [
     BrowserModule,
@@ -31,9 +43,12 @@ import { LicensePlateComponent } from './license-plate/license-plate.component';
     FormsModule,
     ReactiveFormsModule,
     MatButtonModule,
-    MatInputModule
+    MatInputModule,
+    NgxMatTimepickerModule.setLocale('es-ES'), 
+    MatIconModule,
+    MatListModule
   ],
-  providers: [],
+  providers: [CookieService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

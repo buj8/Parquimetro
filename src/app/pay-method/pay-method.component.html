@@ -1,8 +1,7 @@
 <form class="creditcard-form">
     <mat-form-field class="cc-full-width" appearance="fill">
         <mat-label>Modelo</mat-label>
-        <input type="text" placeholder="Elija su modelo de tarjeta" aria-label="Modelo" matInput
-            [formControl]="myControl" [matAutocomplete]="auto">
+        <input type="text" aria-label="Modelo" matInput [formControl]="modelo" [matAutocomplete]="auto" required>
         <mat-autocomplete autoActiveFirstOption #auto="matAutocomplete">
             <mat-option *ngFor="let option of filteredOptions | async" [value]="option">
                 {{option}}
@@ -11,17 +10,23 @@
     </mat-form-field>
     <mat-form-field appearance="fill">
         <mat-label>Número de tarjeta</mat-label>
-        <input matInput>
+        <input matInput [formControl]="numero" required>
+        <mat-error *ngIf="numero.invalid">{{getErrorMessage_numero()}}</mat-error>
     </mat-form-field>
 </form>
 <form>
     <mat-form-field appearance="fill">
         <mat-label>Fecha de caducidad</mat-label>
-        <input matInput>
+        <input matInput required>
+        <mat-error *ngIf="dexpire.invalid">{{getErrorMessage_dexpire()}}</mat-error>
     </mat-form-field>
+
     <mat-form-field appearance="fill">
-        <mat-label>CVV</mat-label>
-        <input matInput>
+        <mat-label>CVC</mat-label>
+        <input matInput [formControl]="cvc" required>
+        <mat-error *ngIf="numero.invalid">{{getErrorMessage_cvc()}}</mat-error>
     </mat-form-field>
 </form>
-<button routerLink="/street" mat-stroked-button>Siguiente</button>
+
+<button routerLink="/street" mat-raised-button style="display: block;"
+    [disabled]="modelo.invalid || numero.invalid || cvc.invalid ">Siguiente</button>
