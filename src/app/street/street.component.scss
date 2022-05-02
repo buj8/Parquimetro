@@ -4,8 +4,17 @@
     padding: 2%;
     font-size: large;
     font-weight: bolder;
-    border: 1px solid black;
+    //border: 1px solid black;
     width: 15%;
     background: white;
     left: 38.5%;
+}
+
+@media only screen and (max-width: 600px) {
+    #zona {
+        margin-top: 10%;
+        margin-bottom: 10%;
+        left: 15%;
+        width: 70%;
+    }
 }
