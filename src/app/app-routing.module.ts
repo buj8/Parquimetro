@@ -7,9 +7,9 @@ import { StreetComponent } from './street/street.component';
 import { TimerComponent } from './timer/timer.component';
 
 const routes: Routes = [
-  {path: '', component: LicensePlateComponent},
+  {path: '', component: StreetComponent},
   {path: 'payment', component: PayMethodComponent},
-  {path: 'street', component: StreetComponent},
+  {path: 'licenseplate', component: LicensePlateComponent},
   {path: 'timer', component: TimerComponent},
   {path: 'receipt', component: ReceiptComponent}
 ];

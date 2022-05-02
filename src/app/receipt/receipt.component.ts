@@ -11,14 +11,17 @@ export class ReceiptComponent implements OnInit {
   matricula: string = "";
   calle: string = "";
   color: string = "";
-  comienzo: string = "12:20";
-  fin: string = "12:48";
-  precio: string = "0.35€";
+  comienzo: string = "";
+  fin: string = "";
+  precio: string = "";
 
   constructor(private cookieService: CookieService) {
     this.matricula = cookieService.get('Matricula');
     this.calle = cookieService.get('Calle');
     this.color = cookieService.get('Color');
+    this.comienzo = cookieService.get('Inicio');
+    this.fin = cookieService.get('Fin');
+    this.precio = cookieService.get('Precio');
   }
 
   ngOnInit(): void {
